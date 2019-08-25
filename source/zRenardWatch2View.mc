@@ -7,7 +7,7 @@ using Toybox.Lang;
 using Toybox.Application;
 
 class zRenardWatch2View extends WatchUi.WatchFace {
-    hidden var ico_msg;
+//    hidden var ico_msg;
     hidden var ico_bat1; // 1 line  - 0-12.5
     hidden var ico_bat2; // 2 lines - 12.5-25
     hidden var ico_bat3; // 3 lines - 25-37.5
@@ -22,7 +22,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 
     function initialize() {
         WatchFace.initialize();
-        ico_msg = WatchUi.loadResource(Rez.Drawables.id_msg);
+//        ico_msg = WatchUi.loadResource(Rez.Drawables.id_msg);
         ico_charge = WatchUi.loadResource(Rez.Drawables.id_charge);
         ico_bat1 = WatchUi.loadResource(Rez.Drawables.id_bat1);
         ico_bat2 = WatchUi.loadResource(Rez.Drawables.id_bat2);
@@ -67,9 +67,9 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 			}
 		}
 		
-		var myHours = Lang.format("$1$",[hours.format("%02d")]);
-		var myMinutes = Lang.format("$1$",[nowText.min.format("%02d")]);
-		var myDay = Lang.format("$1$",[nowText.day.format("%02d")]);
+		var myHours = Lang.format("$1$",[hours.format("%d")]);
+		var myMinutes = Lang.format("$1$",[nowText.min.format("%d")]);
+		var myDay = Lang.format("$1$",[nowText.day.format("%d")]);
 	
 		//dc.drawText( (width / 2)-20, ((height/2)-20)-17-40, Graphics.FONT_SYSTEM_NUMBER_THAI_HOT,myHours, Graphics.TEXT_JUSTIFY_CENTER);
 		//dc.drawText( (width / 2)+20, ((height/2)+20)-17-35, Graphics.FONT_SYSTEM_NUMBER_THAI_HOT, myMinutes, Graphics.TEXT_JUSTIFY_CENTER);
@@ -81,7 +81,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 
 		// Separator between Hours and others data
 		dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
-    	dc.fillRectangle((width / 2)+15, 0, 3, height);
+    	dc.fillRectangle((width / 2)+17, 0, 2, height);
 
 		dc.setColor(hlC ,Graphics.COLOR_TRANSPARENT);
 		if (!sleepMode) {
@@ -102,7 +102,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 			if (battery>87.5 && battery<=100) { ico_bat = ico_bat8; } // 8 lines - 87.5-100
 
 	        var textBattery = (battery + 0.5).toNumber();
-        	if (!System.getSystemStats().charging && battery <=Application.getApp().getProperty("BatteryLevelCritical")) {
+        	if (battery <=Application.getApp().getProperty("BatteryLevelCritical")) {
 	        	dc.setColor(fgC, Graphics.COLOR_TRANSPARENT);
 	        	dc.drawText(width-(width / 4), (3*height/4)+4, Graphics.FONT_TINY, textBattery.toString(), Graphics.TEXT_JUSTIFY_CENTER);
     	    }
@@ -119,9 +119,20 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 	        if (Application.getApp().getProperty("ShowNotification")) {
 				var notification = System.getDeviceSettings().notificationCount;
 				if (notification > 0) {
+					var ico_msg = ico_bat8;
+					if (notification==1) { ico_msg = ico_bat1; }
+					if (notification==2) { ico_msg = ico_bat2; }
+					if (notification==3) { ico_msg = ico_bat3; }
+		    		if (notification==4) { ico_msg = ico_bat4; }
+					if (notification==5) { ico_msg = ico_bat5; }
+					if (notification==6) { ico_msg = ico_bat6; }
+					if (notification==7) { ico_msg = ico_bat7; }
+					if (notification==8) { ico_msg = ico_bat8; }
 					dc.drawBitmap(width-(width / 4)-(34/2), 15+15, ico_msg);
-					dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
-					dc.drawText(width-(width / 4), 18+15, Graphics.FONT_TINY, notification, Graphics.TEXT_JUSTIFY_CENTER);
+					if (notification>=8) {
+						dc.setColor(fgC, Graphics.COLOR_TRANSPARENT);
+						dc.drawText(width-(width / 4), 18+15, Graphics.FONT_TINY, notification, Graphics.TEXT_JUSTIFY_CENTER);
+					}
 				}
 			}
 		}
