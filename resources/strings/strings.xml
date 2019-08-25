@@ -1,0 +1,24 @@
+<strings>
+	<string id="AppName">zRenardWatch2</string>
+
+    <string id="BackgroundColorTitle">Background Color</string>
+    <string id="ForegroundColorTitle">Foreground Color</string>
+    <string id="HighLightColorTitle">Date Color</string>
+    
+    <string id="UseSleepModeTitle">Use sleep mode to hide date and notification</string>
+    <string id="ShowNotificationTitle">Show Notification</string>
+    <string id="BatteryLevelTitle">Minimum Battery Level to display</string>
+	<string id="BatteryLevelError">Must be between 5 and 95</string>
+    <string id="BatteryLevelCriticalTitle">Minimum Battery Level to display a warning</string>
+	<string id="BatteryLevelCriticalError">Must be between 2 and 30</string>
+
+    <string id="ColorBlack">Black</string>
+    <string id="ColorDarkGray">Dark Gray</string>
+    <string id="ColorLightGray">Light Gray</string>
+    <string id="ColorWhite">White</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorOrange">Orange</string>
+    <string id="ColorCyan">Cyan</string>
+
+</strings>

@@ -1,0 +1,9 @@
+<properties>
+    <property id="BackgroundColor" type="number">0x000000</property>
+    <property id="ForegroundColor" type="number">0xFFFFFF</property>
+    <property id="HighLightColor" type="number">0xFF5500</property>
+    <property id="ShowNotification" type="boolean">true</property>
+    <property id="UseSleepMode" type="boolean">false</property>
+    <property id="BatteryLevel" type="number">30</property>
+    <property id="BatteryLevelCritical" type="number">15</property>
+</properties>

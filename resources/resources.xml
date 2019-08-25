@@ -1,0 +1,13 @@
+<resources>
+	<bitmap id="id_msg" filename="drawables/msg_icon.png" />
+   	<bitmap id="id_charge" filename="drawables/charging_icon.png" />
+   	<bitmap id="id_bat1" filename="drawables/bat1.png" />
+   	<bitmap id="id_bat2" filename="drawables/bat2.png" />
+   	<bitmap id="id_bat3" filename="drawables/bat3.png" />
+   	<bitmap id="id_bat4" filename="drawables/bat4.png" />
+   	<bitmap id="id_bat5" filename="drawables/bat5.png" />
+   	<bitmap id="id_bat6" filename="drawables/bat6.png" />
+   	<bitmap id="id_bat7" filename="drawables/bat7.png" />
+   	<bitmap id="id_bat8" filename="drawables/bat8.png" />
+   	<font id="id_font_vlarge" filename="fonts/vlarge.fnt" antialias="true" filter="0123456789:"/>
+</resources>

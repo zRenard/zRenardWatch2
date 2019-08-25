@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="3" lineNum="12" pc="268435481" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="4" lineNum="15" pc="268435502" symbol="draw"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="4" lineNum="17" pc="268435506" symbol="draw"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="4" lineNum="18" pc="268435559" symbol="draw"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="6" lineNum="6" pc="268435572" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="6" lineNum="7" pc="268435576" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="7" lineNum="11" pc="268435595" symbol="onStart"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="8" lineNum="15" pc="268435600" symbol="onStop"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="19" pc="268435605" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="20" pc="268435609" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="10" lineNum="24" pc="268435647" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="10" lineNum="25" pc="268435651" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="23" pc="268435668" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="24" pc="268435672" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="25" pc="268435690" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="26" pc="268435733" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="27" pc="268435776" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="28" pc="268435819" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="29" pc="268435862" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="30" pc="268435905" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="31" pc="268435948" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="32" pc="268435991" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="33" pc="268436034" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="34" pc="268436077" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="35" pc="268436120" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="36" pc="268436163" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="13" lineNum="40" pc="268436174" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="13" lineNum="41" pc="268436178" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="14" lineNum="47" pc="268436216" symbol="onShow"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="51" pc="268436221" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="52" pc="268436225" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="53" pc="268436238" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="54" pc="268436251" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="55" pc="268436282" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="56" pc="268436313" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="58" pc="268436344" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="59" pc="268436360" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="60" pc="268436372" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="61" pc="268436398" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="62" pc="268436450" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="63" pc="268436494" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="64" pc="268436513" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="65" pc="268436538" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="66" pc="268436549" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="70" pc="268436565" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="71" pc="268436617" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="72" pc="268436675" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="78" pc="268436733" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="80" pc="268436819" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="83" pc="268436925" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="84" pc="268436961" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="86" pc="268436999" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="87" pc="268437025" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="90" pc="268437037" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="91" pc="268437130" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="93" pc="268437227" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="94" pc="268437250" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="95" pc="268437260" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="95" pc="268437285" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="96" pc="268437298" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="96" pc="268437323" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="97" pc="268437336" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="97" pc="268437361" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="98" pc="268437374" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="98" pc="268437399" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="99" pc="268437412" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="99" pc="268437437" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="100" pc="268437450" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="100" pc="268437475" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="101" pc="268437488" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="101" pc="268437513" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="102" pc="268437526" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="102" pc="268437551" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="104" pc="268437564" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="105" pc="268437583" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="106" pc="268437646" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="107" pc="268437672" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="109" pc="268437753" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="110" pc="268437815" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="112" pc="268437841" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="115" pc="268437889" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="116" pc="268437913" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="119" pc="268437958" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="120" pc="268437990" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="121" pc="268438013" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="122" pc="268438024" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="123" pc="268438066" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="124" pc="268438102" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="133" pc="268438166" symbol="onHide"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="137" pc="268438171" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="138" pc="268438175" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="142" pc="268438186" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="143" pc="268438190" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\fox\\eclipse-workspace\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="144" pc="268438222" symbol="onEnterSleep"/>
+        <entry filename="Rez" id="25" lineNum="50" pc="268438236" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="54" pc="268438248" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="57" pc="268438272" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="27" symbol="id_msg"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="11" symbol="ico_msg"/>
+        <entry field="true" id="40" symbol="ColorBlue"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry field="true" id="19" symbol="ico_bat8"/>
+        <entry field="true" id="18" symbol="ico_bat7"/>
+        <entry field="true" id="17" symbol="ico_bat6"/>
+        <entry field="true" id="16" symbol="ico_bat5"/>
+        <entry field="true" id="15" symbol="ico_bat4"/>
+        <entry field="true" id="14" symbol="ico_bat3"/>
+        <entry field="true" id="13" symbol="ico_bat2"/>
+        <entry field="true" id="12" symbol="ico_bat1"/>
+        <entry field="true" id="47" symbol="ColorOrange"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="55" symbol="ColorWhite"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="22" symbol="font_vlarge"/>
+        <entry field="true" id="44" symbol="ColorBlack"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="50" symbol="ColorRed"/>
+        <entry field="true" id="21" symbol="sleepMode"/>
+        <entry field="true" id="51" symbol="ForegroundColorTitle"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="49" symbol="AppName"/>
+        <entry id="10" object="true" symbol="zRenardWatch2View"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="20" symbol="ico_charge"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="37" symbol="LauncherIcon"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="46" symbol="BatteryLevelTitle"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="54" symbol="ColorCyan"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="45" symbol="ShowNotificationTitle"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="43" symbol="ColorDarkGray"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="41" symbol="HighLightColorTitle"/>
+        <entry field="true" id="39" symbol="ColorLightGray"/>
+        <entry field="true" id="48" symbol="BatteryLevelError"/>
+        <entry field="true" id="42" symbol="BackgroundColorTitle"/>
+        <entry id="9" object="true" symbol="zRenardWatch2App"/>
+        <entry field="true" id="25" symbol="ChargingIcon"/>
+        <entry field="true" id="53" symbol="BatteryLevelCriticalTitle"/>
+        <entry id="24" module="true" symbol="Layouts"/>
+        <entry field="true" id="28" symbol="id_charge"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="38" symbol="id_font_vlarge"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="26" symbol="NotificationIcon"/>
+        <entry field="true" id="52" symbol="UseSleepModeTitle"/>
+        <entry field="true" id="56" symbol="BatteryLevelCriticalError"/>
+        <entry id="23" module="true" symbol="Menus"/>
+        <entry field="true" id="36" symbol="id_bat8"/>
+        <entry field="true" id="35" symbol="id_bat7"/>
+        <entry field="true" id="34" symbol="id_bat6"/>
+        <entry field="true" id="33" symbol="id_bat5"/>
+        <entry field="true" id="32" symbol="id_bat4"/>
+        <entry field="true" id="31" symbol="id_bat3"/>
+        <entry field="true" id="30" symbol="id_bat2"/>
+        <entry field="true" id="29" symbol="id_bat1"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435501" name="dictionary" stackId="1" startPc="268435460"/>
+        <entry endPc="268435572" name="dc" stackId="1" startPc="268435502"/>
+        <entry endPc="268435600" name="state" stackId="1" startPc="268435595"/>
+        <entry endPc="268435605" name="state" stackId="1" startPc="268435600"/>
+        <entry endPc="268436216" name="dc" stackId="1" startPc="268436174"/>
+        <entry endPc="268438159" name="notification" stackId="16" startPc="268437990"/>
+        <entry endPc="268438162" name="textBattery" stackId="15" startPc="268437037"/>
+        <entry endPc="268438162" name="battery" stackId="13" startPc="268437037"/>
+        <entry endPc="268438162" name="ico_bat" stackId="14" startPc="268437037"/>
+        <entry endPc="268438165" name="hlC" stackId="6" startPc="268436225"/>
+        <entry endPc="268438165" name="width" stackId="2" startPc="268436225"/>
+        <entry endPc="268438165" name="now" stackId="7" startPc="268436225"/>
+        <entry endPc="268438165" name="myMinutes" stackId="11" startPc="268436225"/>
+        <entry endPc="268438165" name="fgC" stackId="5" startPc="268436225"/>
+        <entry endPc="268438165" name="nowText" stackId="8" startPc="268436225"/>
+        <entry endPc="268438165" name="bgC" stackId="4" startPc="268436225"/>
+        <entry endPc="268438165" name="myDay" stackId="12" startPc="268436225"/>
+        <entry endPc="268438165" name="myHours" stackId="10" startPc="268436225"/>
+        <entry endPc="268438165" name="hours" stackId="9" startPc="268436225"/>
+        <entry endPc="268438165" name="height" stackId="3" startPc="268436225"/>
+        <entry endPc="268438166" name="dc" stackId="1" startPc="268436221"/>
+        <entry endPc="268438289" name="rez_cmp_local_custom_drawable_75416073548181451613" stackId="2" startPc="268438248"/>
+        <entry endPc="268438290" name="dc" stackId="1" startPc="268438236"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="zRenardWatch2App">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="zRenardWatch2App">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="zRenardWatch2App">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="zRenardWatch2App">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="zRenardWatch2App">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="zRenardWatch2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="zRenardWatch2View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="zRenardWatch2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="zRenardWatch2View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="zRenardWatch2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="zRenardWatch2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="zRenardWatch2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]>
+            </documentation>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="182" parentId="globals" symbolId="zRenardWatch2View" type="class"/>
+        <dataEntry offset="373" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="428" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="507" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="642" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="673" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="712" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="743" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="782" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="957" parentId="globals" symbolId="zRenardWatch2App" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>
