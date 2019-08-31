@@ -5,6 +5,7 @@
     <string id="ForegroundColorTitle">Foreground Color</string>
     <string id="HighLightColorTitle">Date Color</string>
     
+    <string id="LeadingZeroTitle">Use leading Zero in hours, minutes and date</string>
     <string id="UseSleepModeTitle">Use sleep mode to hide date and notification</string>
     <string id="ShowNotificationTitle">Show Notification</string>
     <string id="BatteryLevelTitle">Minimum Battery Level to display</string>

@@ -33,6 +33,10 @@
         </settingConfig>
     </setting>
 
+    <setting propertyKey="@Properties.LeadingZero" title="@Strings.LeadingZeroTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
     <setting propertyKey="@Properties.ShowNotification" title="@Strings.ShowNotificationTitle">
         <settingConfig type="boolean" />
     </setting>

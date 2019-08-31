@@ -70,10 +70,13 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 		var myHours = Lang.format("$1$",[hours.format("%d")]);
 		var myMinutes = Lang.format("$1$",[nowText.min.format("%d")]);
 		var myDay = Lang.format("$1$",[nowText.day.format("%d")]);
-	
-		//dc.drawText( (width / 2)-20, ((height/2)-20)-17-40, Graphics.FONT_SYSTEM_NUMBER_THAI_HOT,myHours, Graphics.TEXT_JUSTIFY_CENTER);
-		//dc.drawText( (width / 2)+20, ((height/2)+20)-17-35, Graphics.FONT_SYSTEM_NUMBER_THAI_HOT, myMinutes, Graphics.TEXT_JUSTIFY_CENTER);
 		
+	    if (Application.getApp().getProperty("LeadingZero")) {
+			myHours = Lang.format("$1$",[hours.format("%02d")]);
+			myMinutes = Lang.format("$1$",[nowText.min.format("%02d")]);
+			myDay = Lang.format("$1$",[nowText.day.format("%02d")]);
+		}
+			
 		// Hours
 		dc.drawText( (width / 2)-45, (height/2)-Graphics.getFontHeight(font_vlarge)/2, font_vlarge,myHours, Graphics.TEXT_JUSTIFY_CENTER);
 		// Minutes

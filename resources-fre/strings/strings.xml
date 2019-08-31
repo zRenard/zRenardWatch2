@@ -5,6 +5,7 @@
     <string id="ForegroundColorTitle">Couleur du texte</string>
     <string id="HighLightColorTitle">Couleur de la date</string>
 
+    <string id="LeadingZeroTitle">Placer un zéro non significatif devant les heures, minutes et la date</string>
     <string id="UseSleepModeTitle">Masque la date et les notifications en mode repos</string>
     <string id="ShowNotificationTitle">Affichage des notification ?</string>
     <string id="BatteryLevelTitle">Le niveau minimum de la batterie qui declanche l'affichage</string>
