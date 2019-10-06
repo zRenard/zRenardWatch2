@@ -1,5 +1,4 @@
 <drawables>
     <bitmap id="LauncherIcon" filename="launcher_icon.png" />
     <bitmap id="ChargingIcon" filename="../../resources/drawables/charging_icon.png" />
-    <bitmap id="NotificationIcon" filename="../../resources/drawables/msg_icon.png" />
 </drawables>

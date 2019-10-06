@@ -3,10 +3,13 @@
 
     <string id="BackgroundColorTitle">Couleur de fond</string>
     <string id="ForegroundColorTitle">Couleur du texte</string>
+    <string id="ForegroundColorHoursTitle">Couleur du texte des heures</string>
+    <string id="ForegroundColorMinutesTitle">Couleur du texte des minutes</string>
     <string id="HighLightColorTitle">Couleur de la date</string>
 
     <string id="LeadingZeroTitle">Placer un zéro non significatif devant les heures, minutes et la date</string>
     <string id="UseSleepModeTitle">Masque la date et les notifications en mode repos</string>
+    <string id="UltraSleepModeTitle">Si le niveau de batterie est critique, l'écran devient entièrement noir, et la montre est affiché uniquement en dehors du mode repos.</string>
     <string id="ShowNotificationTitle">Affichage des notification ?</string>
     <string id="BatteryLevelTitle">Le niveau minimum de la batterie qui declanche l'affichage</string>
 	<string id="BatteryLevelError">Le niveau doit etre entre 5 et 95</string>

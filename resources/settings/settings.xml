@@ -22,6 +22,28 @@
         </settingConfig>
     </setting>
 
+    <setting propertyKey="@Properties.ForegroundColorHours" title="@Strings.ForegroundColorHoursTitle">
+        <settingConfig type="list">
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0xFF5500">@Strings.ColorOrange</listEntry>
+            <listEntry value="0x00FFFF">@Strings.ColorCyan</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.ForegroundColorMinutes" title="@Strings.ForegroundColorMinutesTitle">
+        <settingConfig type="list">
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0xFF5500">@Strings.ColorOrange</listEntry>
+            <listEntry value="0x00FFFF">@Strings.ColorCyan</listEntry>
+        </settingConfig>
+    </setting>
+
     <setting propertyKey="@Properties.HighLightColor" title="@Strings.HighLightColorTitle">
         <settingConfig type="list">
             <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
@@ -42,6 +64,10 @@
     </setting>
 
     <setting propertyKey="@Properties.UseSleepMode" title="@Strings.UseSleepModeTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.UltraSleepMode" title="@Strings.UltraSleepModeTitle">
         <settingConfig type="boolean" />
     </setting>
 

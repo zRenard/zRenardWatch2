@@ -3,10 +3,13 @@
 
     <string id="BackgroundColorTitle">Background Color</string>
     <string id="ForegroundColorTitle">Foreground Color</string>
+    <string id="ForegroundColorHoursTitle">Foreground Color for Hours</string>
+    <string id="ForegroundColorMinutesTitle">Foreground Color for Minutes</string>
     <string id="HighLightColorTitle">Date Color</string>
     
     <string id="LeadingZeroTitle">Use leading Zero in hours, minutes and date</string>
     <string id="UseSleepModeTitle">Use sleep mode to hide date and notification</string>
+    <string id="UltraSleepModeTitle">Display bank screen when battery is bellow critical level, and show it only when exiting sleep mode</string>
     <string id="ShowNotificationTitle">Show Notification</string>
     <string id="BatteryLevelTitle">Minimum Battery Level to display</string>
 	<string id="BatteryLevelError">Must be between 5 and 95</string>
