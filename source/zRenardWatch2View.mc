@@ -19,6 +19,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
     hidden var ico_charge;
 	hidden var sleepMode;
 	hidden var font_vlarge;
+	hidden var modeSeconds;
 
     function initialize() {
         WatchFace.initialize();
@@ -33,7 +34,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
         ico_bat7 = WatchUi.loadResource(Rez.Drawables.id_bat7);
         ico_bat8 = WatchUi.loadResource(Rez.Drawables.id_bat8);
         font_vlarge = WatchUi.loadResource( Rez.Fonts.id_font_vlarge );
-        sleepMode = false;        
+        sleepMode = false; 
     }
 
     // Load your resources here
@@ -51,7 +52,9 @@ class zRenardWatch2View extends WatchUi.WatchFace {
     function onUpdate(dc) {
     	var battery = System.getSystemStats().battery;
 	    var bgC = Application.getApp().getProperty("BackgroundColor");
+        var modeSeconds = Application.getApp().getProperty("ShowSeconds");
     	dc.setColor(bgC,bgC);
+    	dc.clearClip();
 		dc.clear();
     	if ( !sleepMode ||
     		 ( sleepMode && !Application.getApp().getProperty("UltraSleepMode") ) ||
@@ -65,6 +68,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 	    	var fgC = Application.getApp().getProperty("ForegroundColor");
 	    	var fgHC = Application.getApp().getProperty("ForegroundColorHours");
 	    	var fgMC = Application.getApp().getProperty("ForegroundColorMinutes");
+	    	var fgSC = Application.getApp().getProperty("ForegroundColorSeconds");
 	    	var hlC = Application.getApp().getProperty("HighLightColor");
 	 		var now = new Time.Moment(Time.today().value());
 	 		var nowText = Gregorian.info(Time.now(), Time.FORMAT_MEDIUM);
@@ -77,11 +81,13 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 			
 			var myHours = Lang.format("$1$",[hours.format("%d")]);
 			var myMinutes = Lang.format("$1$",[nowText.min.format("%d")]);
+			var mySecondes = Lang.format("$1$",[nowText.sec.format("%d")]);
 			var myDay = Lang.format("$1$",[nowText.day.format("%d")]);
 			
 		    if (Application.getApp().getProperty("LeadingZero")) {
 				myHours = Lang.format("$1$",[hours.format("%02d")]);
 				myMinutes = Lang.format("$1$",[nowText.min.format("%02d")]);
+				mySecondes = Lang.format("$1$",[nowText.sec.format("%02d")]);
 				myDay = Lang.format("$1$",[nowText.day.format("%02d")]);
 			}
 				
@@ -91,7 +97,12 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 			// Minutes
 			dc.setColor(fgMC,Graphics.COLOR_TRANSPARENT);  		
 			dc.drawText( (width / 2)+40+20, (height/2)-20-Graphics.getFontHeight(Graphics.FONT_SYSTEM_NUMBER_HOT)/2, Graphics.FONT_NUMBER_HOT, myMinutes, Graphics.TEXT_JUSTIFY_CENTER);
-	
+			// Secondes
+			if (modeSeconds&&!sleepMode) {
+				dc.setColor(fgSC,Graphics.COLOR_TRANSPARENT);
+				dc.drawText( (width / 2)+40+30, (height/2)+28-Graphics.getFontHeight(Graphics.FONT_NUMBER_MILD )/2, Graphics.FONT_NUMBER_MILD , mySecondes, Graphics.TEXT_JUSTIFY_CENTER);
+			}
+			
 			// Separator between Hours and others data
 			dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
 	    	dc.fillRectangle((width / 2)+17, 0, 2, height);
@@ -100,9 +111,15 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 			if (!sleepMode || (sleepMode && !Application.getApp().getProperty("UseSleepMode"))) {
 				// Date if not in sleep mode (or sleep mode desactivated)
 				//dc.drawText( (width / 2), (height /2)+60-20, Graphics.FONT_TINY, nowText.day_of_week+" "+myDay+" "+nowText.month+" "+nowText.year, Graphics.TEXT_JUSTIFY_CENTER);
-				dc.drawText( width-(width / 4), (height /2)+10, Graphics.FONT_XTINY, nowText.day_of_week+" "+myDay+" "+nowText.month, Graphics.TEXT_JUSTIFY_CENTER);
-				dc.drawText( width-(width / 4), (height /2)+10+Graphics.getFontHeight(Graphics.FONT_XTINY), Graphics.FONT_XTINY, nowText.year, Graphics.TEXT_JUSTIFY_CENTER);
-	
+
+				if (modeSeconds) {
+					dc.drawText( (width / 4)+20, 5+height-(height /4), Graphics.FONT_XTINY, nowText.day_of_week+" "+myDay+" "+nowText.month, Graphics.TEXT_JUSTIFY_CENTER);
+					dc.drawText( (width / 4)+20, 5+height-(height /4)+Graphics.getFontHeight(Graphics.FONT_XTINY), Graphics.FONT_XTINY, nowText.year, Graphics.TEXT_JUSTIFY_CENTER);
+				} else {
+					dc.drawText( width-(width / 4), (height /2)+10, Graphics.FONT_XTINY, nowText.day_of_week+" "+myDay+" "+nowText.month, Graphics.TEXT_JUSTIFY_CENTER);
+					dc.drawText( width-(width / 4), (height /2)+10+Graphics.getFontHeight(Graphics.FONT_XTINY), Graphics.FONT_XTINY, nowText.year, Graphics.TEXT_JUSTIFY_CENTER);
+				}
+
 				// @TODO : Draw it instead of images. it will help handling colors.
 				var ico_bat = ico_bat8;
 				if (battery>=0 && battery<=12.5) { ico_bat = ico_bat1; } // 1 line  - 0-12.5
@@ -152,6 +169,27 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 		}
     }
 
+	function onPartialUpdate(dc) {
+	    var modeSeconds = Application.getApp().getProperty("ShowSeconds");
+		if (sleepMode && modeSeconds) {
+			var now = new Time.Moment(Time.today().value());
+		 	var nowText = Gregorian.info(Time.now(), Time.FORMAT_MEDIUM);
+			var mySecondes = Lang.format("$1$",[nowText.sec.format("%d")]);
+			if (Application.getApp().getProperty("LeadingZero")) {
+				mySecondes = Lang.format("$1$",[nowText.sec.format("%02d")]);
+			}	
+			// Secondes
+	    	var width = dc.getWidth();
+			var height = dc.getHeight();
+	    	var fgSC = Application.getApp().getProperty("ForegroundColorSeconds");
+		
+			dc.setClip((width / 2)+45,(height/2)+7,45,Graphics.getFontHeight(Graphics.FONT_NUMBER_MILD ));
+			var bgC = Application.getApp().getProperty("BackgroundColor");
+			dc.setColor(fgSC,bgC);
+			dc.clear();
+			dc.drawText( (width / 2)+40+30, (height/2)+28-Graphics.getFontHeight(Graphics.FONT_NUMBER_MILD )/2, Graphics.FONT_NUMBER_MILD , mySecondes, Graphics.TEXT_JUSTIFY_CENTER);
+		}
+	}
     // Called when this View is removed from the screen. Save the
     // state of this View here. This includes freeing resources from
     // memory.

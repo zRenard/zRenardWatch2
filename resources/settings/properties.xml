@@ -3,8 +3,10 @@
     <property id="ForegroundColor" type="number">0x00FFFF</property>
     <property id="ForegroundColorHours" type="number">0x00FFFF</property>
     <property id="ForegroundColorMinutes" type="number">0x00FFFF</property>
-    <property id="HighLightColor" type="number">0x00FFFF</property>
+    <property id="ForegroundColorSeconds" type="number">0x00FFFF</property>
+    <property id="HighLightColor" type="number">0xFFFFFF</property>
     <property id="ShowNotification" type="boolean">true</property>
+    <property id="ShowSeconds" type="boolean">false</property>
     <property id="UseSleepMode" type="boolean">false</property>
     <property id="UltraSleepMode" type="boolean">false</property>
     <property id="BatteryLevel" type="number">60</property>

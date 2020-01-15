@@ -1,12 +1,14 @@
 <strings>
 	<string id="AppName">zRenardWatch2</string>
 
-    <string id="BackgroundColorTitle">Background Color</string>
-    <string id="ForegroundColorTitle">Foreground Color</string>
-    <string id="ForegroundColorHoursTitle">Foreground Color for Hours</string>
-    <string id="ForegroundColorMinutesTitle">Foreground Color for Minutes</string>
-    <string id="HighLightColorTitle">Date Color</string>
+    <string id="BackgroundColorTitle">Background color</string>
+    <string id="ForegroundColorTitle">Foreground color</string>
+    <string id="ForegroundColorHoursTitle">Foreground color for hours</string>
+    <string id="ForegroundColorMinutesTitle">Foreground color for minutes</string>
+    <string id="ForegroundColorSecondsTitle">Foreground color for seconds</string>
+    <string id="HighLightColorTitle">Date color</string>
     
+    <string id="ShowSecondsTitle">Show seconds</string>
     <string id="LeadingZeroTitle">Use leading Zero in hours, minutes and date</string>
     <string id="UseSleepModeTitle">Use sleep mode to hide date and notification</string>
     <string id="UltraSleepModeTitle">Display bank screen when battery is bellow critical level, and show it only when exiting sleep mode</string>
