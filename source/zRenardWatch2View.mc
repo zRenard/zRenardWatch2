@@ -182,11 +182,13 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 	    	var width = dc.getWidth();
 			var height = dc.getHeight();
 	    	var fgSC = Application.getApp().getProperty("ForegroundColorSeconds");
-		
-			dc.setClip((width / 2)+45,(height/2)+7,45,Graphics.getFontHeight(Graphics.FONT_NUMBER_MILD ));
 			var bgC = Application.getApp().getProperty("BackgroundColor");
-			dc.setColor(fgSC,bgC);
+		
+			dc.setClip((width / 2)+45,(height/2)+15,45,Graphics.getFontHeight(Graphics.FONT_NUMBER_MILD )+5);
 			dc.clear();
+//			dc.setColor(Graphics.COLOR_PINK,bgC);
+//			dc.drawRectangle((width / 2)+45,(height/2)+15,45,Graphics.getFontHeight(Graphics.FONT_NUMBER_MILD )+5);
+			dc.setColor(fgSC,bgC);
 			dc.drawText( (width / 2)+40+30, (height/2)+28-Graphics.getFontHeight(Graphics.FONT_NUMBER_MILD )/2, Graphics.FONT_NUMBER_MILD , mySecondes, Graphics.TEXT_JUSTIFY_CENTER);
 		}
 	}
