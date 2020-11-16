@@ -12,4 +12,7 @@
     <property id="BatteryLevel" type="number">60</property>
     <property id="BatteryLevelCritical" type="number">15</property>
     <property id="LeadingZero" type="boolean">false</property>
+    <property id="ShowMove" type="boolean">true</property>
+    <property id="MoveDisplayType" type="number">1</property>
+    <property id="MoveColor" type="number">0xFFFFFF</property>    
 </properties>

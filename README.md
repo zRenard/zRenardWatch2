@@ -17,3 +17,8 @@ Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a010
 ## Battery level show
 * Minimum value to display icon for battery
 * Minimum value to show battery text
+
+## Display inactivity status
+* Show inactivity (On/Off)
+* Display as circle or icons
+* Set inactivity color for circle or icons

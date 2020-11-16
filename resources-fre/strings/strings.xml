@@ -19,6 +19,12 @@
     <string id="BatteryLevelCriticalTitle">Le niveau minimum de la batterie qui declanche l'affichage d'une alerte</string>
 	<string id="BatteryLevelCriticalError">Le niveau doit etre entre 2 et 30</string>
 
+	<string id="ShowMoveTitle">Affiche l'inactivité</string>
+    <string id="MoveDisplayTypeTitle">Mode pour l'inactivité</string>
+	<string id="MoveCircle">Sous forme de cercle</string>
+    <string id="MoveIcons">Sous forme d'icones</string>
+	<string id="MoveColorTitle">Couleur de l'inactivité (cercle ou icones)</string>
+
     <string id="ColorBlack">Noir</string>
     <string id="ColorDarkGray">Gris Sombre</string>
     <string id="ColorLightGray">Gris Clair</string>

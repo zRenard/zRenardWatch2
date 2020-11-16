@@ -18,6 +18,12 @@
     <string id="BatteryLevelCriticalTitle">Minimum Battery Level to display a warning</string>
 	<string id="BatteryLevelCriticalError">Must be between 2 and 30</string>
 
+	<string id="ShowMoveTitle">Show inactivity status</string>
+    <string id="MoveDisplayTypeTitle">Inactivity status type</string>
+	<string id="MoveCircle">Show as circle</string>
+    <string id="MoveIcons">Show as icons</string>
+	<string id="MoveColorTitle">Inactivity color (circle or icons)</string>
+
     <string id="ColorBlack">Black</string>
     <string id="ColorDarkGray">Dark Gray</string>
     <string id="ColorLightGray">Light Gray</string>

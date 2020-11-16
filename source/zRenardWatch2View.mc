@@ -53,6 +53,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
     	var battery = System.getSystemStats().battery;
 	    var bgC = Application.getApp().getProperty("BackgroundColor");
         var modeSeconds = Application.getApp().getProperty("ShowSeconds");
+        
     	dc.setColor(bgC,bgC);
     	dc.clearClip();
 		dc.clear();
@@ -65,6 +66,10 @@ class zRenardWatch2View extends WatchUi.WatchFace {
     		) {
 	    	var width = dc.getWidth();
 	    	var height = dc.getHeight();
+	    	var showMove = Application.getApp().getProperty("ShowMove");
+	    	var moveDisplayType = Application.getApp().getProperty("MoveDisplayType");
+	    	var moveColor = Application.getApp().getProperty("MoveColor");
+        	var moveLevel = ActivityMonitor.getInfo().moveBarLevel;
 	    	var fgC = Application.getApp().getProperty("ForegroundColor");
 	    	var fgHC = Application.getApp().getProperty("ForegroundColorHours");
 	    	var fgMC = Application.getApp().getProperty("ForegroundColorMinutes");
@@ -90,7 +95,20 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 				mySecondes = Lang.format("$1$",[nowText.sec.format("%02d")]);
 				myDay = Lang.format("$1$",[nowText.day.format("%02d")]);
 			}
-				
+			
+			// Activity status
+			if (showMove && moveLevel>0) {
+				if (moveDisplayType==1) {
+					dc.setPenWidth(2);
+					dc.setColor(moveColor, Graphics.COLOR_TRANSPARENT);
+					dc.drawArc(width / 2, height / 2, (width / 2)-2,Graphics.ARC_CLOCKWISE,90,90-72*moveLevel);
+					dc.setPenWidth(1);
+				}
+				if (moveDisplayType==2) {
+					drawPoly(dc,(width/4)+20, (height/6), 13, -Math.PI / 2, moveColor, 1, 6, moveLevel);
+				}
+			}
+			
 			// Hours
 			dc.setColor(fgHC,Graphics.COLOR_TRANSPARENT);  		
 			dc.drawText( (width / 2)-45, (height/2)-Graphics.getFontHeight(font_vlarge)/2, font_vlarge,myHours, Graphics.TEXT_JUSTIFY_CENTER);
@@ -192,6 +210,26 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 			dc.drawText( (width / 2)+40+30, (height/2)+28-Graphics.getFontHeight(Graphics.FONT_NUMBER_MILD )/2, Graphics.FONT_NUMBER_MILD , mySecondes, Graphics.TEXT_JUSTIFY_CENTER);
 		}
 	}
+	
+	function drawPoly(dc,x,y,radius,rotation,color,width,numberOfSides,numberDisplayed) {
+		// Activity status
+		var angle = (Math.PI*2)/numberOfSides;
+		var x1 = x +  radius*Math.cos(0+rotation);
+		var y1 =  y +  radius*Math.sin(0+rotation);
+		var x2 = 10;
+		var y2 = 10;
+		
+		dc.setPenWidth(width);
+		dc.setColor(color ,Graphics.COLOR_TRANSPARENT);
+		for (var i = 1; i <= numberOfSides && i<=numberDisplayed; i += 1 ) {
+			x2=Math.cos(i*angle+rotation) * radius + x;
+			y2=Math.sin(i*angle+rotation) * radius + y;
+			dc.drawLine(x1, y1, x2, y2);
+			x1=x2;
+			y1=y2;
+		}	
+    }
+	
     // Called when this View is removed from the screen. Save the
     // state of this View here. This includes freeing resources from
     // memory.
