@@ -105,7 +105,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 					dc.setPenWidth(1);
 				}
 				if (moveDisplayType==2) {
-					drawPoly(dc,(width/4)+20, (height/6), 13, -Math.PI / 2, moveColor, 1, 6, moveLevel);
+					drawPoly(dc,(width/4)+20, (height/6), 13, -Math.PI / 2, moveColor, 2, 6, moveLevel);
 				}
 			}
 			

@@ -323,7 +323,7 @@
         <entry endPc="268440613" name="x" stackId="2" startPc="268440330"/>
         <entry endPc="268440613" name="dc" stackId="1" startPc="268440330"/>
         <entry endPc="268440613" name="rotation" stackId="5" startPc="268440330"/>
-        <entry endPc="268440701" name="rez_cmp_local_custom_drawable_20299099231930054070" stackId="2" startPc="268440660"/>
+        <entry endPc="268440701" name="rez_cmp_local_custom_drawable_20451246381449561120" stackId="2" startPc="268440660"/>
         <entry endPc="268440702" name="dc" stackId="1" startPc="268440648"/>
     </localVars>
     <annotations/>
