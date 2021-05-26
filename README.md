@@ -24,6 +24,9 @@ Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a010
 * Set inactivity color for circle or icons
 
 ## History
+* 1.4.2
+** (new) Add new colors
+
 * 1.4.1
 ** (new) Increase icon drawing line of activity status icon
 

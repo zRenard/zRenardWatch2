@@ -6,6 +6,9 @@
             <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
             <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
             <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
             <listEntry value="0xFF5500">@Strings.ColorOrange</listEntry>
             <listEntry value="0x00FFFF">@Strings.ColorCyan</listEntry>
         </settingConfig>
@@ -13,10 +16,13 @@
 
     <setting propertyKey="@Properties.ForegroundColor" title="@Strings.ForegroundColorTitle">
         <settingConfig type="list">
-            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
             <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
             <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
             <listEntry value="0xFF5500">@Strings.ColorOrange</listEntry>
             <listEntry value="0x00FFFF">@Strings.ColorCyan</listEntry>
         </settingConfig>
@@ -24,10 +30,13 @@
 
     <setting propertyKey="@Properties.ForegroundColorHours" title="@Strings.ForegroundColorHoursTitle">
         <settingConfig type="list">
-            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
             <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
             <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
             <listEntry value="0xFF5500">@Strings.ColorOrange</listEntry>
             <listEntry value="0x00FFFF">@Strings.ColorCyan</listEntry>
         </settingConfig>
@@ -35,10 +44,13 @@
 
     <setting propertyKey="@Properties.ForegroundColorMinutes" title="@Strings.ForegroundColorMinutesTitle">
         <settingConfig type="list">
-            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
             <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
             <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
             <listEntry value="0xFF5500">@Strings.ColorOrange</listEntry>
             <listEntry value="0x00FFFF">@Strings.ColorCyan</listEntry>
         </settingConfig>
@@ -46,10 +58,13 @@
 
     <setting propertyKey="@Properties.ForegroundColorSeconds" title="@Strings.ForegroundColorSecondsTitle">
         <settingConfig type="list">
-            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
             <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
             <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
             <listEntry value="0xFF5500">@Strings.ColorOrange</listEntry>
             <listEntry value="0x00FFFF">@Strings.ColorCyan</listEntry>
         </settingConfig>
@@ -57,10 +72,13 @@
 
     <setting propertyKey="@Properties.HighLightColor" title="@Strings.HighLightColorTitle">
         <settingConfig type="list">
-            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
             <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
             <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
             <listEntry value="0xFF5500">@Strings.ColorOrange</listEntry>
             <listEntry value="0x00FFFF">@Strings.ColorCyan</listEntry>
         </settingConfig>
@@ -104,10 +122,13 @@
     </setting>    
     <setting propertyKey="@Properties.MoveColor" title="@Strings.MoveColorTitle">
         <settingConfig type="list">
-            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
             <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
             <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
             <listEntry value="0xFF5500">@Strings.ColorOrange</listEntry>
             <listEntry value="0x00FFFF">@Strings.ColorCyan</listEntry>
         </settingConfig>
