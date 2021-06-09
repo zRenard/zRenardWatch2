@@ -7,6 +7,11 @@
     <string id="ForegroundColorMinutesTitle">Foreground color for minutes</string>
     <string id="ForegroundColorSecondsTitle">Foreground color for seconds</string>
     <string id="HighLightColorTitle">Date color</string>
+    <string id="VerticalLineColorTitle">Vertical line color</string>
+    <string id="BatteryColorTitle">Battery text color</string>
+    <string id="BatteryIconColorTitle">Battery icon color</string>
+    <string id="NotificationColorTitle">Notification text color</string>
+    <string id="NotificationIconColorTitle">Notification icon color</string>
     
     <string id="ShowSecondsTitle">Show seconds</string>
     <string id="LeadingZeroTitle">Use leading Zero in hours, minutes and date</string>
@@ -22,7 +27,12 @@
     <string id="MoveDisplayTypeTitle">Inactivity status type</string>
 	<string id="MoveCircle">Show as circle</string>
     <string id="MoveIcons">Show as icons</string>
-	<string id="MoveColorTitle">Inactivity color (circle or icons)</string>
+	<string id="MoveColorTitle">Inactivity color (circle or icon)</string>
+
+   	<string id="VerticalLineWidthTitle">Size of the vertical line</string>
+   	<string id="BatteryIconWidthTitle">Size of the line of battery icon</string>
+   	<string id="NotificationIconWidthTitle">Size of the line of notification icon</string>
+   	<string id="MoveWidthTitle">Size of the line of move indicator (circle or icon)</string>
 
     <string id="ColorBlack">Black</string>
     <string id="ColorDarkGray">Dark Gray</string>

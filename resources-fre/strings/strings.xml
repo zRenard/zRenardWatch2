@@ -7,6 +7,11 @@
     <string id="ForegroundColorMinutesTitle">Couleur du texte des minutes</string>
     <string id="ForegroundColorSecondsTitle">Couleur du texte des secondes</string>
     <string id="HighLightColorTitle">Couleur de la date</string>
+    <string id="VerticalLineColorTitle">Couleur de la ligne vertical</string>
+    <string id="BatteryColorTitle">Couleur du texte pour la batterie</string>
+    <string id="BatteryIconColorTitle">Couleur de l'icone batterie</string>
+    <string id="NotificationColorTitle">Couleur du texte de la notification</string>
+    <string id="NotificationIconColorTitle">Couleur de l'icone de notification</string>
 
     <string id="ShowSecondsTitle">Affiche les secondes</string>
     <string id="LeadingZeroTitle">Placer un zéro non significatif devant les heures, minutes et la date</string>
@@ -23,7 +28,12 @@
     <string id="MoveDisplayTypeTitle">Mode pour l'inactivité</string>
 	<string id="MoveCircle">Sous forme de cercle</string>
     <string id="MoveIcons">Sous forme d'icones</string>
-	<string id="MoveColorTitle">Couleur de l'inactivité (cercle ou icones)</string>
+	<string id="MoveColorTitle">Couleur de l'inactivité (cercle ou icone)</string>
+
+   	<string id="VerticalLineWidthTitle">Taille de la ligne verticale</string>
+   	<string id="BatteryIconWidthTitle">Taille de la ligne de l'icone batterie</string>
+   	<string id="NotificationIconWidthTitle">Taille de la ligne de l'icone de notification</string>
+   	<string id="MoveWidthTitle">Taille de la ligne de l'indicateur d'inactivité (cercle ou icone)</string>
 
     <string id="ColorBlack">Noir</string>
     <string id="ColorDarkGray">Gris Sombre</string>

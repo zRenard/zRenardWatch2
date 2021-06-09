@@ -7,15 +7,6 @@ using Toybox.Lang;
 using Toybox.Application;
 
 class zRenardWatch2View extends WatchUi.WatchFace {
-//    hidden var ico_msg;
-    hidden var ico_bat1; // 1 line  - 0-12.5
-    hidden var ico_bat2; // 2 lines - 12.5-25
-    hidden var ico_bat3; // 3 lines - 25-37.5
-    hidden var ico_bat4; // 4 lines - 37.5-50
-    hidden var ico_bat5; // 5 lines - 50-62.5
-    hidden var ico_bat6; // 6 lines - 62.5-75
-    hidden var ico_bat7; // 7 lines - 75-87.5
-    hidden var ico_bat8; // 8 lines - 87.5-100
     hidden var ico_charge;
 	hidden var sleepMode;
 	hidden var font_vlarge;
@@ -23,16 +14,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 
     function initialize() {
         WatchFace.initialize();
-//        ico_msg = WatchUi.loadResource(Rez.Drawables.id_msg);
         ico_charge = WatchUi.loadResource(Rez.Drawables.id_charge);
-        ico_bat1 = WatchUi.loadResource(Rez.Drawables.id_bat1);
-        ico_bat2 = WatchUi.loadResource(Rez.Drawables.id_bat2);
-        ico_bat3 = WatchUi.loadResource(Rez.Drawables.id_bat3);
-        ico_bat4 = WatchUi.loadResource(Rez.Drawables.id_bat4);
-        ico_bat5 = WatchUi.loadResource(Rez.Drawables.id_bat5);
-        ico_bat6 = WatchUi.loadResource(Rez.Drawables.id_bat6);
-        ico_bat7 = WatchUi.loadResource(Rez.Drawables.id_bat7);
-        ico_bat8 = WatchUi.loadResource(Rez.Drawables.id_bat8);
         font_vlarge = WatchUi.loadResource( Rez.Fonts.id_font_vlarge );
         sleepMode = false; 
     }
@@ -57,7 +39,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
     	dc.setColor(bgC,bgC);
     	dc.clearClip();
 		dc.clear();
-        dc.setAntiAlias(true);  
+        if (dc has :setAntiAlias ) { dc.setAntiAlias(true); }
     	if ( !sleepMode ||
     		 ( sleepMode && !Application.getApp().getProperty("UltraSleepMode") ) ||
     		 ( sleepMode && (Application.getApp().getProperty("UltraSleepMode") &&
@@ -100,13 +82,13 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 			// Activity status
 			if (showMove && moveLevel>0) {
 				if (moveDisplayType==1) {
-					dc.setPenWidth(2);
+					dc.setPenWidth(Application.getApp().getProperty("MoveWidth")*2);
 					dc.setColor(moveColor, Graphics.COLOR_TRANSPARENT);
-					dc.drawArc(width / 2, height / 2, (width / 2)-2,Graphics.ARC_CLOCKWISE,90,90-72*moveLevel);
+					dc.drawArc(width / 2, height / 2, (width / 2)-1,Graphics.ARC_CLOCKWISE,90,90-72*moveLevel);
 					dc.setPenWidth(1);
 				}
 				if (moveDisplayType==2) {
-					drawPoly(dc,(width/4)+20, (height/6), 13, -Math.PI / 2, moveColor, 2, 6, moveLevel);
+					drawPoly(dc,(width/4)+20, (height/6), 13, -Math.PI / 2, moveColor, Application.getApp().getProperty("MoveWidth"), 5, moveLevel);
 				}
 			}
 			
@@ -123,8 +105,8 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 			}
 			
 			// Separator between Hours and others data
-			dc.setColor(Graphics.COLOR_WHITE ,Graphics.COLOR_TRANSPARENT);
-	    	dc.fillRectangle((width / 2)+17, 0, 2, height);
+			dc.setColor(Application.getApp().getProperty("VerticalLineColor"),Graphics.COLOR_TRANSPARENT);
+	    	dc.fillRectangle((width / 2)+17, 0, Application.getApp().getProperty("VerticalLineWidth"), height);
 	
 			dc.setColor(hlC ,Graphics.COLOR_TRANSPARENT);
 			if (!sleepMode || (sleepMode && !Application.getApp().getProperty("UseSleepMode"))) {
@@ -139,26 +121,23 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 					dc.drawText( width-(width / 4), (height /2)+10+Graphics.getFontHeight(Graphics.FONT_XTINY), Graphics.FONT_XTINY, nowText.year, Graphics.TEXT_JUSTIFY_CENTER);
 				}
 
-				// @TODO : Draw it instead of images. it will help handling colors.
-				var ico_bat = ico_bat8;
-				if (battery>=0 && battery<=12.5) { ico_bat = ico_bat1; } // 1 line  - 0-12.5
-				if (battery>12.5 && battery<=25) { ico_bat = ico_bat2; } // 2 lines - 12.5-25
-				if (battery>25 && battery<=37.5) { ico_bat = ico_bat3; } // 3 lines - 25-37.5
-	    		if (battery>37.5 && battery<=50) { ico_bat = ico_bat4; } // 4 lines - 37.5-50
-				if (battery>50 && battery<=62.5) { ico_bat = ico_bat5; } // 5 lines - 50-62.5
-				if (battery>62.5 && battery<=75) { ico_bat = ico_bat6; } // 6 lines - 62.5-75
-				if (battery>75 && battery<=87.5) { ico_bat = ico_bat7; } // 7 lines - 75-87.5
-				if (battery>87.5 && battery<=100) { ico_bat = ico_bat8; } // 8 lines - 87.5-100
+				var battery_level=0;
+				if (battery>=0 && battery<=12.5) { battery_level=1;} // 1 line  - 0-12.5
+				if (battery>12.5 && battery<=25) { battery_level=2;} // 2 lines - 12.5-25
+				if (battery>25 && battery<=37.5) { battery_level=3;} // 3 lines - 25-37.5
+	    		if (battery>37.5 && battery<=50) { battery_level=4;} // 4 lines - 37.5-50
+				if (battery>50 && battery<=62.5) { battery_level=5;} // 5 lines - 50-62.5
+				if (battery>62.5 && battery<=75) { battery_level=6;} // 6 lines - 62.5-75
+				if (battery>75 && battery<=87.5) { battery_level=7;} // 7 lines - 75-87.5
+				if (battery>87.5 && battery<=100) { battery_level=8;} // 8 lines - 87.5-100
 	
 		        var textBattery = (battery + 0.5).toNumber();
 	        	if (battery <=Application.getApp().getProperty("BatteryLevelCritical")) {
-		        	dc.setColor(fgC, Graphics.COLOR_TRANSPARENT);
+		        	dc.setColor(Application.getApp().getProperty("BatteryColor"), Graphics.COLOR_TRANSPARENT);
 		        	dc.drawText(width-(width / 4), (3*height/4)+4, Graphics.FONT_TINY, textBattery.toString(), Graphics.TEXT_JUSTIFY_CENTER);
 	    	    }
 		        if (battery <=Application.getApp().getProperty("BatteryLevel") || System.getSystemStats().charging ) {
-		        	dc.setColor(fgC, Graphics.COLOR_TRANSPARENT);
-		        	// Octogone = 100/8=12.5 step for bat level
-		        	dc.drawBitmap(width-(width / 4)-(34/2), 3*height/4, ico_bat);
+		        	drawPoly(dc,width-(width / 4),(3*height/4)+17,16,-((Math.PI*2)/8)*2.5,Application.getApp().getProperty("BatteryIconColor"), Application.getApp().getProperty("BatteryIconWidth"),8,battery_level);
 		        }
 		
 		        if (System.getSystemStats().charging ) {
@@ -168,18 +147,9 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 		        if (Application.getApp().getProperty("ShowNotification")) {
 					var notification = System.getDeviceSettings().notificationCount;
 					if (notification > 0) {
-						var ico_msg = ico_bat8;
-						if (notification==1) { ico_msg = ico_bat1; }
-						if (notification==2) { ico_msg = ico_bat2; }
-						if (notification==3) { ico_msg = ico_bat3; }
-			    		if (notification==4) { ico_msg = ico_bat4; }
-						if (notification==5) { ico_msg = ico_bat5; }
-						if (notification==6) { ico_msg = ico_bat6; }
-						if (notification==7) { ico_msg = ico_bat7; }
-						if (notification==8) { ico_msg = ico_bat8; }
-						dc.drawBitmap(width-(width / 4)-(34/2), 15+15, ico_msg);
+						drawPoly(dc,width-(width / 4),(height/6)+6,16,-((Math.PI*2)/8)*2.5,Application.getApp().getProperty("NotificationIconColor"),Application.getApp().getProperty("NotificationIconWidth"),8,notification);
 						if (notification>=8) {
-							dc.setColor(fgC, Graphics.COLOR_TRANSPARENT);
+							dc.setColor(Application.getApp().getProperty("NotificationColor"), Graphics.COLOR_TRANSPARENT);
 							dc.drawText(width-(width / 4), 18+15, Graphics.FONT_TINY, notification, Graphics.TEXT_JUSTIFY_CENTER);
 						}
 					}

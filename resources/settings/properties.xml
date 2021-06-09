@@ -5,6 +5,7 @@
     <property id="ForegroundColorMinutes" type="number">0x00FFFF</property>
     <property id="ForegroundColorSeconds" type="number">0x00FFFF</property>
     <property id="HighLightColor" type="number">0xFFFFFF</property>
+    <property id="VerticalLineColor" type="number">0xFFFFFF</property>
     <property id="ShowNotification" type="boolean">true</property>
     <property id="ShowSeconds" type="boolean">false</property>
     <property id="UseSleepMode" type="boolean">false</property>
@@ -14,5 +15,13 @@
     <property id="LeadingZero" type="boolean">false</property>
     <property id="ShowMove" type="boolean">true</property>
     <property id="MoveDisplayType" type="number">1</property>
-    <property id="MoveColor" type="number">0xFFFFFF</property>    
+    <property id="MoveColor" type="number">0xFFFFFF</property>
+    <property id="BatteryColor" type="number">0x00FFFF</property>
+    <property id="BatteryIconColor" type="number">0xFFFFFF</property>
+    <property id="NotificationColor" type="number">0x00FFFF</property>
+    <property id="NotificationIconColor" type="number">0xFFFFFF</property>
+    <property id="VerticalLineWidth" type="number">2</property>
+    <property id="BatteryIconWidth" type="number">2</property>
+    <property id="NotificationIconWidth" type="number">2</property>
+    <property id="MoveWidth" type="number">2</property>
 </properties>
