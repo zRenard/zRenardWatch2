@@ -24,6 +24,8 @@ Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a010
 * Set inactivity color for circle or icons
 
 ## History
+* 1.4.5
+	* (**new**) Add Fenix 7 support and news models
 * 1.4.4
      * (*fix*) Icon for inactivity not displayed fully https://github.com/zRenard/zRenardWatch2/issues/9
      * (**new**) Readme in FR https://github.com/zRenard/zRenardWatch2/issues/6

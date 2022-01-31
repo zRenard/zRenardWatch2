@@ -147,7 +147,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 		        if (Application.getApp().getProperty("ShowNotification")) {
 					var notification = System.getDeviceSettings().notificationCount;
 					if (notification > 0) {
-						drawPoly(dc,width-(width / 4),(height/6)+6,16,-((Math.PI*2)/8)*2.5,Application.getApp().getProperty("NotificationIconColor"),Application.getApp().getProperty("NotificationIconWidth"),8,notification);
+						drawPoly(dc,width-(width / 4),(height/6)+7,16,-((Math.PI*2)/8)*2.5,Application.getApp().getProperty("NotificationIconColor"),Application.getApp().getProperty("NotificationIconWidth"),8,notification);
 						if (notification>=8) {
 							dc.setColor(Application.getApp().getProperty("NotificationColor"), Graphics.COLOR_TRANSPARENT);
 							dc.drawText(width-(width / 4), 18+15, Graphics.FONT_TINY, notification, Graphics.TEXT_JUSTIFY_CENTER);
