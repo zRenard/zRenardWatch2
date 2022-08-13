@@ -7,15 +7,13 @@ using Toybox.Lang;
 using Toybox.Application;
 
 class zRenardWatch2View extends WatchUi.WatchFace {
-    hidden var ico_charge;
+    hidden var ico_charge = WatchUi.loadResource(Rez.Drawables.id_charge);
 	hidden var sleepMode;
-	hidden var font_vlarge;
+	hidden var font_vlarge = WatchUi.loadResource( Rez.Fonts.id_font_vlarge );
 	hidden var modeSeconds;
 
     function initialize() {
         WatchFace.initialize();
-        ico_charge = WatchUi.loadResource(Rez.Drawables.id_charge);
-        font_vlarge = WatchUi.loadResource( Rez.Fonts.id_font_vlarge );
         sleepMode = false; 
     }
 

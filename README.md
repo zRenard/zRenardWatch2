@@ -24,6 +24,9 @@ Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a010
 * Set inactivity color for circle or icons
 
 ## History
+* 1.4.6
+	* (**new**) Add new devices 955/Solar, 745, Marq, Venu et Vivo
+	* (**new**) Add support to the new SDK
 * 1.4.5
 	* (**new**) Add Fenix 7 support and news models
 * 1.4.4

@@ -20,6 +20,7 @@
     <string id="ShowNotificationTitle">Show Notification</string>
     <string id="BatteryLevelTitle">Minimum Battery Level to display</string>
 	<string id="BatteryLevelError">Must be between 5 and 95</string>
+	
     <string id="BatteryLevelCriticalTitle">Minimum Battery Level to display a warning</string>
 	<string id="BatteryLevelCriticalError">Must be between 2 and 30</string>
 

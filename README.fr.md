@@ -2,8 +2,8 @@
 Garmin Watch Face
 Affichage numérique avec octogone pour les icons
 
-Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a010-4dd7-9cf0-f573f06334a4
-# Configuration
+Disponible sur Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a010-4dd7-9cf0-f573f06334a4
+# Possibilité de configuration
 
 ## Couleurs
 * Fond
@@ -12,18 +12,21 @@ Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a010
 
 ## Affichage
 * Notifications (On/Off)
-* Mode economie (On/Off). En mode économie, uniquement l'horologe est affiché.
+* Mode economie (On/Off). En mode économie, uniquement l'horologe est affichée.
 
-## Battery level show
+## Affichage du niveau de la batterie
 * Minimum value to display icon for battery
 * Minimum value to show battery text
 
-## Display inactivity status
+## Status d'inactivité
 * Show inactivity (On/Off)
 * Display as circle or icons
 * Set inactivity color for circle or icons
 
-## History
+## Historique des version
+* 1.4.6
+	* (**nouveautés**) Ajout des nouvelles montres 955/Solar, 745, Marq, Venu et Vivo
+	* (**nouveautés**) Support du nouveau SDK
 * 1.4.5
 	* (**nouveautés**) Ajout du support de la nouvelle Fenix 7 et des nouveaux modèles
 * 1.4.4
