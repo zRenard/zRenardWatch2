@@ -15,13 +15,13 @@ Disponible sur Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a0
 * Mode economie (On/Off). En mode économie, uniquement l'horologe est affichée.
 
 ## Affichage du niveau de la batterie
-* Minimum value to display icon for battery
-* Minimum value to show battery text
+* Valeur minimum pour l’affichage de l'icone de la batterie
+* Valeur minimum pour l’affichage texte de la batterie
 
 ## Status d'inactivité
-* Show inactivity (On/Off)
-* Display as circle or icons
-* Set inactivity color for circle or icons
+* Affichage d'inactivité (On/Off)
+* Affichage sous forme de cercle ou d'icônes
+* Couleur du cercle et de l'd'icône d'inactivité.
 
 ## Historique des version
 * 1.4.6
