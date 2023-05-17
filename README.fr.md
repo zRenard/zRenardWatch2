@@ -9,9 +9,11 @@ Disponible sur Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a0
 * Fond
 * Heure
 * Date
+* Icones Méteo
 
 ## Affichage
 * Notifications (On/Off)
+* Méteo (On/Off)
 * Mode economie (On/Off). En mode économie, uniquement l'horologe est affichée.
 
 ## Affichage du niveau de la batterie
@@ -21,9 +23,11 @@ Disponible sur Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a0
 ## Status d'inactivité
 * Affichage d'inactivité (On/Off)
 * Affichage sous forme de cercle ou d'icônes
-* Couleur du cercle et de l'd'icône d'inactivité.
+* Couleur du cercle et de l'icône d'inactivité.
 
 ## Historique des version
+* 1.5.0
+	* (**nouveautés**) Ajout de la méteo sous forme d'icones
 * 1.4.6
 	* (**nouveautés**) Ajout des nouvelles montres 955/Solar, 745, Marq, Venu et Vivo
 	* (**nouveautés**) Support du nouveau SDK

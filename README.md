@@ -9,9 +9,11 @@ Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a010
 * Background
 * Foreground
 * Date color
+* Weather icons color
 
 ## Display
 * Show Notifications (On/Off)
+* Weather (On/Off)
 * Use sleep mode (On/Off). In sleep mode, display only clock.
 
 ## Battery level show
@@ -24,6 +26,8 @@ Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a010
 * Set inactivity color for circle or icons
 
 ## History
+* 1.5.0
+	* (**new**) Add weather icons
 * 1.4.6
 	* (**new**) Add new devices 955/Solar, 745, Marq, Venu et Vivo
 	* (**new**) Add support to the new SDK

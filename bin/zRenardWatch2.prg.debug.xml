@@ -2,433 +2,671 @@
 <debugInfo>
     <manifest filename="C:\Users\fox\OneDrive\Projects\git_clones\zRenardWatch2\manifest.xml"/>
     <pcToLineNum>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="1" lineNum="7" parent="globals/Background" pc="268435456" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="1" lineNum="8" parent="globals/Background" pc="268435460" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="1" lineNum="12" parent="globals/Background" pc="268435481" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="2" lineNum="15" parent="globals/Background" pc="268435502" symbol="draw"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="2" lineNum="17" parent="globals/Background" pc="268435506" symbol="draw"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="2" lineNum="18" parent="globals/Background" pc="268435559" symbol="draw"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="3" lineNum="5" parent="globals/Background" pc="268440519" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="3" lineNum="5" parent="globals/Background" pc="268440519" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="5" lineNum="6" parent="globals/zRenardWatch2App" pc="268435572" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="5" lineNum="7" parent="globals/zRenardWatch2App" pc="268435576" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="6" lineNum="11" parent="globals/zRenardWatch2App" pc="268435595" symbol="onStart"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="7" lineNum="15" parent="globals/zRenardWatch2App" pc="268435600" symbol="onStop"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="8" lineNum="19" parent="globals/zRenardWatch2App" pc="268435605" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="8" lineNum="20" parent="globals/zRenardWatch2App" pc="268435609" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="24" parent="globals/zRenardWatch2App" pc="268435647" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="25" parent="globals/zRenardWatch2App" pc="268435651" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="10" lineNum="4" parent="globals/zRenardWatch2App" pc="268440568" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="10" lineNum="4" parent="globals/zRenardWatch2App" pc="268440568" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="15" parent="globals/zRenardWatch2View" pc="268435668" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="16" parent="globals/zRenardWatch2View" pc="268435672" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="12" lineNum="17" parent="globals/zRenardWatch2View" pc="268435690" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="13" lineNum="21" parent="globals/zRenardWatch2View" pc="268435701" symbol="onLayout"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="13" lineNum="22" parent="globals/zRenardWatch2View" pc="268435705" symbol="onLayout"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="14" lineNum="28" parent="globals/zRenardWatch2View" pc="268435743" symbol="onShow"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="32" parent="globals/zRenardWatch2View" pc="268435748" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="33" parent="globals/zRenardWatch2View" pc="268435752" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="34" parent="globals/zRenardWatch2View" pc="268435775" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="35" parent="globals/zRenardWatch2View" pc="268435806" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="37" parent="globals/zRenardWatch2View" pc="268435837" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="38" parent="globals/zRenardWatch2View" pc="268435853" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="39" parent="globals/zRenardWatch2View" pc="268435865" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="40" parent="globals/zRenardWatch2View" pc="268435877" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="40" parent="globals/zRenardWatch2View" pc="268435888" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="41" parent="globals/zRenardWatch2View" pc="268435905" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="48" parent="globals/zRenardWatch2View" pc="268436054" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="49" parent="globals/zRenardWatch2View" pc="268436067" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="50" parent="globals/zRenardWatch2View" pc="268436080" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="51" parent="globals/zRenardWatch2View" pc="268436111" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="52" parent="globals/zRenardWatch2View" pc="268436142" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="53" parent="globals/zRenardWatch2View" pc="268436173" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="54" parent="globals/zRenardWatch2View" pc="268436198" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="55" parent="globals/zRenardWatch2View" pc="268436229" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="56" parent="globals/zRenardWatch2View" pc="268436260" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="57" parent="globals/zRenardWatch2View" pc="268436291" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="58" parent="globals/zRenardWatch2View" pc="268436322" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="59" parent="globals/zRenardWatch2View" pc="268436353" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="60" parent="globals/zRenardWatch2View" pc="268436405" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="61" parent="globals/zRenardWatch2View" pc="268436449" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="62" parent="globals/zRenardWatch2View" pc="268436468" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="63" parent="globals/zRenardWatch2View" pc="268436493" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="64" parent="globals/zRenardWatch2View" pc="268436504" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="68" parent="globals/zRenardWatch2View" pc="268436520" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="69" parent="globals/zRenardWatch2View" pc="268436572" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="70" parent="globals/zRenardWatch2View" pc="268436630" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="71" parent="globals/zRenardWatch2View" pc="268436688" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="73" parent="globals/zRenardWatch2View" pc="268436746" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="74" parent="globals/zRenardWatch2View" pc="268436778" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="75" parent="globals/zRenardWatch2View" pc="268436830" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="76" parent="globals/zRenardWatch2View" pc="268436888" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="77" parent="globals/zRenardWatch2View" pc="268436946" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="81" parent="globals/zRenardWatch2View" pc="268437007" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="82" parent="globals/zRenardWatch2View" pc="268437026" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="83" parent="globals/zRenardWatch2View" pc="268437037" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="84" parent="globals/zRenardWatch2View" pc="268437084" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="85" parent="globals/zRenardWatch2View" pc="268437110" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="86" parent="globals/zRenardWatch2View" pc="268437183" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="88" parent="globals/zRenardWatch2View" pc="268437203" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="89" parent="globals/zRenardWatch2View" pc="268437214" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="94" parent="globals/zRenardWatch2View" pc="268437325" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="95" parent="globals/zRenardWatch2View" pc="268437351" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="97" parent="globals/zRenardWatch2View" pc="268437437" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="98" parent="globals/zRenardWatch2View" pc="268437463" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="100" parent="globals/zRenardWatch2View" pc="268437569" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="101" parent="globals/zRenardWatch2View" pc="268437589" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="102" parent="globals/zRenardWatch2View" pc="268437615" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="106" parent="globals/zRenardWatch2View" pc="268437724" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="107" parent="globals/zRenardWatch2View" pc="268437777" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="109" parent="globals/zRenardWatch2View" pc="268437839" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="110" parent="globals/zRenardWatch2View" pc="268437865" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="114" parent="globals/zRenardWatch2View" pc="268437927" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="115" parent="globals/zRenardWatch2View" pc="268437932" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="116" parent="globals/zRenardWatch2View" pc="268438031" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="118" parent="globals/zRenardWatch2View" pc="268438137" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="119" parent="globals/zRenardWatch2View" pc="268438230" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="122" parent="globals/zRenardWatch2View" pc="268438327" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="123" parent="globals/zRenardWatch2View" pc="268438334" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="123" parent="globals/zRenardWatch2View" pc="268438359" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="124" parent="globals/zRenardWatch2View" pc="268438369" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="124" parent="globals/zRenardWatch2View" pc="268438394" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="125" parent="globals/zRenardWatch2View" pc="268438404" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="125" parent="globals/zRenardWatch2View" pc="268438429" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="126" parent="globals/zRenardWatch2View" pc="268438439" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="126" parent="globals/zRenardWatch2View" pc="268438464" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="127" parent="globals/zRenardWatch2View" pc="268438474" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="127" parent="globals/zRenardWatch2View" pc="268438499" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="128" parent="globals/zRenardWatch2View" pc="268438509" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="128" parent="globals/zRenardWatch2View" pc="268438534" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="129" parent="globals/zRenardWatch2View" pc="268438544" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="129" parent="globals/zRenardWatch2View" pc="268438569" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="130" parent="globals/zRenardWatch2View" pc="268438579" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="130" parent="globals/zRenardWatch2View" pc="268438604" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="132" parent="globals/zRenardWatch2View" pc="268438614" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="133" parent="globals/zRenardWatch2View" pc="268438633" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="134" parent="globals/zRenardWatch2View" pc="268438668" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="135" parent="globals/zRenardWatch2View" pc="268438721" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="137" parent="globals/zRenardWatch2View" pc="268438802" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="138" parent="globals/zRenardWatch2View" pc="268438864" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="141" parent="globals/zRenardWatch2View" pc="268439020" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="142" parent="globals/zRenardWatch2View" pc="268439044" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="145" parent="globals/zRenardWatch2View" pc="268439089" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="146" parent="globals/zRenardWatch2View" pc="268439121" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="147" parent="globals/zRenardWatch2View" pc="268439144" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="148" parent="globals/zRenardWatch2View" pc="268439155" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="149" parent="globals/zRenardWatch2View" pc="268439302" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="150" parent="globals/zRenardWatch2View" pc="268439313" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="151" parent="globals/zRenardWatch2View" pc="268439366" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="159" parent="globals/zRenardWatch2View" pc="268439436" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="160" parent="globals/zRenardWatch2View" pc="268439440" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="161" parent="globals/zRenardWatch2View" pc="268439471" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="162" parent="globals/zRenardWatch2View" pc="268439490" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="163" parent="globals/zRenardWatch2View" pc="268439542" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="164" parent="globals/zRenardWatch2View" pc="268439586" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="165" parent="globals/zRenardWatch2View" pc="268439644" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="166" parent="globals/zRenardWatch2View" pc="268439676" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="169" parent="globals/zRenardWatch2View" pc="268439737" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="170" parent="globals/zRenardWatch2View" pc="268439750" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="171" parent="globals/zRenardWatch2View" pc="268439763" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="172" parent="globals/zRenardWatch2View" pc="268439794" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="174" parent="globals/zRenardWatch2View" pc="268439825" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="175" parent="globals/zRenardWatch2View" pc="268439903" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="178" parent="globals/zRenardWatch2View" pc="268439915" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="179" parent="globals/zRenardWatch2View" pc="268439931" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="183" parent="globals/zRenardWatch2View" pc="268440041" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="185" parent="globals/zRenardWatch2View" pc="268440045" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="186" parent="globals/zRenardWatch2View" pc="268440070" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="187" parent="globals/zRenardWatch2View" pc="268440103" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="188" parent="globals/zRenardWatch2View" pc="268440136" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="189" parent="globals/zRenardWatch2View" pc="268440143" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="191" parent="globals/zRenardWatch2View" pc="268440150" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="192" parent="globals/zRenardWatch2View" pc="268440164" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="193" parent="globals/zRenardWatch2View" pc="268440190" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="194" parent="globals/zRenardWatch2View" pc="268440216" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="195" parent="globals/zRenardWatch2View" pc="268440249" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="196" parent="globals/zRenardWatch2View" pc="268440282" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="197" parent="globals/zRenardWatch2View" pc="268440302" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="17" lineNum="198" parent="globals/zRenardWatch2View" pc="268440306" symbol="drawPoly"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="205" parent="globals/zRenardWatch2View" pc="268440324" symbol="onHide"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="19" lineNum="209" parent="globals/zRenardWatch2View" pc="268440329" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="19" lineNum="210" parent="globals/zRenardWatch2View" pc="268440333" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="214" parent="globals/zRenardWatch2View" pc="268440344" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="215" parent="globals/zRenardWatch2View" pc="268440348" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="21" lineNum="9" parent="globals/zRenardWatch2View" pc="268440414" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="21" lineNum="10" parent="globals/zRenardWatch2View" pc="268440432" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="21" lineNum="12" parent="globals/zRenardWatch2View" pc="268440475" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="21" lineNum="9" parent="globals/zRenardWatch2View" pc="268440414" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="23" lineNum="2" parent="globals/Rez/Drawables" pc="268440562" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="24" lineNum="8" parent="globals/Rez/Fonts" pc="268440564" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="25" lineNum="12" parent="globals/Rez/JsonData" pc="268440566" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="26" lineNum="21" parent="globals/Rez/Layouts" pc="268440359" symbol="WatchFace"/>
-        <entry filename="Rez" id="26" lineNum="23" parent="globals/Rez/Layouts" pc="268440371" symbol="WatchFace"/>
-        <entry filename="Rez" id="26" lineNum="25" parent="globals/Rez/Layouts" pc="268440395" symbol="WatchFace"/>
-        <entry filename="Rez" id="27" lineNum="14" parent="globals/Rez/Layouts" pc="268440565" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="28" lineNum="30" parent="globals/Rez/Menus" pc="268440563" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="29" lineNum="32" parent="globals/Rez/Strings" pc="268440567" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="30" lineNum="1" parent="globals/Rez" pc="268440538" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="30" lineNum="1" parent="globals/Rez" pc="268440538" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="3" lineNum="10" parent="globals" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="5" lineNum="4" parent="globals/zRenardWatch2App" pc="268435475" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="6" lineNum="121" parent="globals/zRenardWatch2App" pc="268435494" symbol="onStart"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="7" lineNum="134" parent="globals/zRenardWatch2App" pc="268435497" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="7" lineNum="135" parent="globals/zRenardWatch2App" pc="268435499" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="8" lineNum="129" parent="globals/zRenardWatch2App" pc="268435516" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="8" lineNum="130" parent="globals/zRenardWatch2App" pc="268435518" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="6" parent="globals/zRenardWatch2App" pc="268435559" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="7" parent="globals/zRenardWatch2App" pc="268435561" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="9" parent="globals/zRenardWatch2App" pc="268435579" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="10" parent="globals/zRenardWatch2App" pc="268435641" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="11" parent="globals/zRenardWatch2App" pc="268435703" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="12" parent="globals/zRenardWatch2App" pc="268435765" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="13" parent="globals/zRenardWatch2App" pc="268435827" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="14" parent="globals/zRenardWatch2App" pc="268435889" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="15" parent="globals/zRenardWatch2App" pc="268435951" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="16" parent="globals/zRenardWatch2App" pc="268436013" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="17" parent="globals/zRenardWatch2App" pc="268436075" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="18" parent="globals/zRenardWatch2App" pc="268436137" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="19" parent="globals/zRenardWatch2App" pc="268436199" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="20" parent="globals/zRenardWatch2App" pc="268436261" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="21" parent="globals/zRenardWatch2App" pc="268436323" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="22" parent="globals/zRenardWatch2App" pc="268436385" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="23" parent="globals/zRenardWatch2App" pc="268436447" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="24" parent="globals/zRenardWatch2App" pc="268436509" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="25" parent="globals/zRenardWatch2App" pc="268436571" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="26" parent="globals/zRenardWatch2App" pc="268436633" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="27" parent="globals/zRenardWatch2App" pc="268436695" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="28" parent="globals/zRenardWatch2App" pc="268436757" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="29" parent="globals/zRenardWatch2App" pc="268436819" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="30" parent="globals/zRenardWatch2App" pc="268436881" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="31" parent="globals/zRenardWatch2App" pc="268436943" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="32" parent="globals/zRenardWatch2App" pc="268437005" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="33" parent="globals/zRenardWatch2App" pc="268437067" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="34" parent="globals/zRenardWatch2App" pc="268437129" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="35" parent="globals/zRenardWatch2App" pc="268437191" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="36" parent="globals/zRenardWatch2App" pc="268437253" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="37" parent="globals/zRenardWatch2App" pc="268437315" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="38" parent="globals/zRenardWatch2App" pc="268437377" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="39" parent="globals/zRenardWatch2App" pc="268437439" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="40" parent="globals/zRenardWatch2App" pc="268437501" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="41" parent="globals/zRenardWatch2App" pc="268437563" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="42" parent="globals/zRenardWatch2App" pc="268437625" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="43" parent="globals/zRenardWatch2App" pc="268437687" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="44" parent="globals/zRenardWatch2App" pc="268437749" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="45" parent="globals/zRenardWatch2App" pc="268437811" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="46" parent="globals/zRenardWatch2App" pc="268437873" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="47" parent="globals/zRenardWatch2App" pc="268437935" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="48" parent="globals/zRenardWatch2App" pc="268437997" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="49" parent="globals/zRenardWatch2App" pc="268438059" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="50" parent="globals/zRenardWatch2App" pc="268438121" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="51" parent="globals/zRenardWatch2App" pc="268438183" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="52" parent="globals/zRenardWatch2App" pc="268438245" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="53" parent="globals/zRenardWatch2App" pc="268438307" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="54" parent="globals/zRenardWatch2App" pc="268438369" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="55" parent="globals/zRenardWatch2App" pc="268438431" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="56" parent="globals/zRenardWatch2App" pc="268438493" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="57" parent="globals/zRenardWatch2App" pc="268438555" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="58" parent="globals/zRenardWatch2App" pc="268438617" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="59" parent="globals/zRenardWatch2App" pc="268438679" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="60" parent="globals/zRenardWatch2App" pc="268438741" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="61" parent="globals/zRenardWatch2App" pc="268438803" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="62" parent="globals/zRenardWatch2App" pc="268438865" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="64" parent="globals/zRenardWatch2App" pc="268438927" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="65" parent="globals/zRenardWatch2App" pc="268438989" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="66" parent="globals/zRenardWatch2App" pc="268439051" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="67" parent="globals/zRenardWatch2App" pc="268439113" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="68" parent="globals/zRenardWatch2App" pc="268439175" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="69" parent="globals/zRenardWatch2App" pc="268439237" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="70" parent="globals/zRenardWatch2App" pc="268439299" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="71" parent="globals/zRenardWatch2App" pc="268439361" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="72" parent="globals/zRenardWatch2App" pc="268439423" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="73" parent="globals/zRenardWatch2App" pc="268439485" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="74" parent="globals/zRenardWatch2App" pc="268439547" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="75" parent="globals/zRenardWatch2App" pc="268439609" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="76" parent="globals/zRenardWatch2App" pc="268439671" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="77" parent="globals/zRenardWatch2App" pc="268439733" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="78" parent="globals/zRenardWatch2App" pc="268439795" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="79" parent="globals/zRenardWatch2App" pc="268439857" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="80" parent="globals/zRenardWatch2App" pc="268439919" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="81" parent="globals/zRenardWatch2App" pc="268439981" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="82" parent="globals/zRenardWatch2App" pc="268440043" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="83" parent="globals/zRenardWatch2App" pc="268440105" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="84" parent="globals/zRenardWatch2App" pc="268440167" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="85" parent="globals/zRenardWatch2App" pc="268440229" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="86" parent="globals/zRenardWatch2App" pc="268440291" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="87" parent="globals/zRenardWatch2App" pc="268440353" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="88" parent="globals/zRenardWatch2App" pc="268440415" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="89" parent="globals/zRenardWatch2App" pc="268440477" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="90" parent="globals/zRenardWatch2App" pc="268440539" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="91" parent="globals/zRenardWatch2App" pc="268440601" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="92" parent="globals/zRenardWatch2App" pc="268440663" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="93" parent="globals/zRenardWatch2App" pc="268440725" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="94" parent="globals/zRenardWatch2App" pc="268440787" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="95" parent="globals/zRenardWatch2App" pc="268440849" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="96" parent="globals/zRenardWatch2App" pc="268440911" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="97" parent="globals/zRenardWatch2App" pc="268440973" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="98" parent="globals/zRenardWatch2App" pc="268441035" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="99" parent="globals/zRenardWatch2App" pc="268441097" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="100" parent="globals/zRenardWatch2App" pc="268441159" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="101" parent="globals/zRenardWatch2App" pc="268441221" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="102" parent="globals/zRenardWatch2App" pc="268441283" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="103" parent="globals/zRenardWatch2App" pc="268441345" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="104" parent="globals/zRenardWatch2App" pc="268441407" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="105" parent="globals/zRenardWatch2App" pc="268441469" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="106" parent="globals/zRenardWatch2App" pc="268441531" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="107" parent="globals/zRenardWatch2App" pc="268441593" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="108" parent="globals/zRenardWatch2App" pc="268441655" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="109" parent="globals/zRenardWatch2App" pc="268441717" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="110" parent="globals/zRenardWatch2App" pc="268441779" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="111" parent="globals/zRenardWatch2App" pc="268441841" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="112" parent="globals/zRenardWatch2App" pc="268441903" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="113" parent="globals/zRenardWatch2App" pc="268441965" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="114" parent="globals/zRenardWatch2App" pc="268442027" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="115" parent="globals/zRenardWatch2App" pc="268442089" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="116" parent="globals/zRenardWatch2App" pc="268442151" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="9" lineNum="117" parent="globals/zRenardWatch2App" pc="268442213" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2App.mc" id="10" lineNum="125" parent="globals/zRenardWatch2App" pc="268442276" symbol="onStop"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="11" lineNum="5" parent="globals/Background" pc="268442279" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="12" lineNum="7" parent="globals/Background" pc="268442298" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="12" lineNum="8" parent="globals/Background" pc="268442302" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="12" lineNum="12" parent="globals/Background" pc="268442323" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="13" lineNum="15" parent="globals/Background" pc="268442344" symbol="draw"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="13" lineNum="17" parent="globals/Background" pc="268442346" symbol="draw"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2Background.mc" id="13" lineNum="18" parent="globals/Background" pc="268442389" symbol="draw"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\bin\\gen\\no-device\\source\\Rez.mcgen" id="14" lineNum="7" parent="globals/Rez" pc="268442402" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="12" parent="globals/zRenardWatch2View" pc="268442426" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="13" parent="globals/zRenardWatch2View" pc="268442444" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="15" lineNum="15" parent="globals/zRenardWatch2View" pc="268442491" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="251" parent="globals/zRenardWatch2View" pc="268442539" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="16" lineNum="252" parent="globals/zRenardWatch2View" pc="268442541" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="225" parent="globals/zRenardWatch2View" pc="268442552" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="227" parent="globals/zRenardWatch2View" pc="268442556" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="228" parent="globals/zRenardWatch2View" pc="268442566" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="229" parent="globals/zRenardWatch2View" pc="268442599" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="230" parent="globals/zRenardWatch2View" pc="268442632" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="231" parent="globals/zRenardWatch2View" pc="268442639" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="233" parent="globals/zRenardWatch2View" pc="268442646" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="234" parent="globals/zRenardWatch2View" pc="268442660" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="235" parent="globals/zRenardWatch2View" pc="268442679" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="236" parent="globals/zRenardWatch2View" pc="268442705" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="237" parent="globals/zRenardWatch2View" pc="268442738" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="238" parent="globals/zRenardWatch2View" pc="268442771" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="239" parent="globals/zRenardWatch2View" pc="268442791" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="18" lineNum="240" parent="globals/zRenardWatch2View" pc="268442795" symbol="drawPoly"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="19" lineNum="26" parent="globals/zRenardWatch2View" pc="268442813" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="19" lineNum="27" parent="globals/zRenardWatch2View" pc="268442815" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="202" parent="globals/zRenardWatch2View" pc="268442857" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="203" parent="globals/zRenardWatch2View" pc="268442861" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="204" parent="globals/zRenardWatch2View" pc="268442889" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="205" parent="globals/zRenardWatch2View" pc="268442908" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="206" parent="globals/zRenardWatch2View" pc="268442945" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="207" parent="globals/zRenardWatch2View" pc="268443003" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="208" parent="globals/zRenardWatch2View" pc="268443032" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="211" parent="globals/zRenardWatch2View" pc="268443093" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="212" parent="globals/zRenardWatch2View" pc="268443106" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="213" parent="globals/zRenardWatch2View" pc="268443119" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="214" parent="globals/zRenardWatch2View" pc="268443147" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="216" parent="globals/zRenardWatch2View" pc="268443175" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="217" parent="globals/zRenardWatch2View" pc="268443246" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="220" parent="globals/zRenardWatch2View" pc="268443258" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="20" lineNum="221" parent="globals/zRenardWatch2View" pc="268443274" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="21" lineNum="256" parent="globals/zRenardWatch2View" pc="268443363" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="21" lineNum="257" parent="globals/zRenardWatch2View" pc="268443365" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="22" lineNum="20" parent="globals/zRenardWatch2View" pc="268443376" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="22" lineNum="21" parent="globals/zRenardWatch2View" pc="268443378" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="22" lineNum="22" parent="globals/zRenardWatch2View" pc="268443396" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="37" parent="globals/zRenardWatch2View" pc="268443407" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="38" parent="globals/zRenardWatch2View" pc="268443411" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="39" parent="globals/zRenardWatch2View" pc="268443434" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="40" parent="globals/zRenardWatch2View" pc="268443462" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="41" parent="globals/zRenardWatch2View" pc="268443490" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="43" parent="globals/zRenardWatch2View" pc="268443518" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="46" parent="globals/zRenardWatch2View" pc="268443525" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="46" parent="globals/zRenardWatch2View" pc="268443539" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="47" parent="globals/zRenardWatch2View" pc="268443552" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="48" parent="globals/zRenardWatch2View" pc="268443580" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="50" parent="globals/zRenardWatch2View" pc="268443617" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="51" parent="globals/zRenardWatch2View" pc="268443622" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="52" parent="globals/zRenardWatch2View" pc="268443659" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="53" parent="globals/zRenardWatch2View" pc="268443676" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="54" parent="globals/zRenardWatch2View" pc="268443683" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="55" parent="globals/zRenardWatch2View" pc="268443694" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="56" parent="globals/zRenardWatch2View" pc="268443720" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="58" parent="globals/zRenardWatch2View" pc="268443745" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="61" parent="globals/zRenardWatch2View" pc="268443770" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="64" parent="globals/zRenardWatch2View" pc="268443792" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="66" parent="globals/zRenardWatch2View" pc="268443805" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="70" parent="globals/zRenardWatch2View" pc="268443830" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="71" parent="globals/zRenardWatch2View" pc="268443846" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="72" parent="globals/zRenardWatch2View" pc="268443858" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="73" parent="globals/zRenardWatch2View" pc="268443870" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="73" parent="globals/zRenardWatch2View" pc="268443881" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="74" parent="globals/zRenardWatch2View" pc="268443898" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="81" parent="globals/zRenardWatch2View" pc="268444038" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="82" parent="globals/zRenardWatch2View" pc="268444051" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="83" parent="globals/zRenardWatch2View" pc="268444064" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="84" parent="globals/zRenardWatch2View" pc="268444092" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="85" parent="globals/zRenardWatch2View" pc="268444120" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="86" parent="globals/zRenardWatch2View" pc="268444148" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="87" parent="globals/zRenardWatch2View" pc="268444173" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="88" parent="globals/zRenardWatch2View" pc="268444201" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="89" parent="globals/zRenardWatch2View" pc="268444229" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="90" parent="globals/zRenardWatch2View" pc="268444257" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="91" parent="globals/zRenardWatch2View" pc="268444285" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="92" parent="globals/zRenardWatch2View" pc="268444304" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="93" parent="globals/zRenardWatch2View" pc="268444329" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="94" parent="globals/zRenardWatch2View" pc="268444340" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="97" parent="globals/zRenardWatch2View" pc="268444356" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="98" parent="globals/zRenardWatch2View" pc="268444408" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="99" parent="globals/zRenardWatch2View" pc="268444466" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="100" parent="globals/zRenardWatch2View" pc="268444524" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="102" parent="globals/zRenardWatch2View" pc="268444582" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="103" parent="globals/zRenardWatch2View" pc="268444611" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="104" parent="globals/zRenardWatch2View" pc="268444663" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="105" parent="globals/zRenardWatch2View" pc="268444721" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="106" parent="globals/zRenardWatch2View" pc="268444779" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="110" parent="globals/zRenardWatch2View" pc="268444840" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="111" parent="globals/zRenardWatch2View" pc="268444859" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="112" parent="globals/zRenardWatch2View" pc="268444870" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="113" parent="globals/zRenardWatch2View" pc="268444914" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="114" parent="globals/zRenardWatch2View" pc="268444933" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="115" parent="globals/zRenardWatch2View" pc="268444999" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="117" parent="globals/zRenardWatch2View" pc="268445019" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="118" parent="globals/zRenardWatch2View" pc="268445030" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="123" parent="globals/zRenardWatch2View" pc="268445117" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="124" parent="globals/zRenardWatch2View" pc="268445136" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="126" parent="globals/zRenardWatch2View" pc="268445215" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="127" parent="globals/zRenardWatch2View" pc="268445234" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="129" parent="globals/zRenardWatch2View" pc="268445319" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="130" parent="globals/zRenardWatch2View" pc="268445339" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="131" parent="globals/zRenardWatch2View" pc="268445358" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="135" parent="globals/zRenardWatch2View" pc="268445446" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="136" parent="globals/zRenardWatch2View" pc="268445489" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="138" parent="globals/zRenardWatch2View" pc="268445548" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="139" parent="globals/zRenardWatch2View" pc="268445567" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="143" parent="globals/zRenardWatch2View" pc="268445626" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="144" parent="globals/zRenardWatch2View" pc="268445631" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="145" parent="globals/zRenardWatch2View" pc="268445716" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="147" parent="globals/zRenardWatch2View" pc="268445810" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="148" parent="globals/zRenardWatch2View" pc="268445889" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="151" parent="globals/zRenardWatch2View" pc="268445974" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="152" parent="globals/zRenardWatch2View" pc="268445981" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="152" parent="globals/zRenardWatch2View" pc="268446006" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="153" parent="globals/zRenardWatch2View" pc="268446016" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="153" parent="globals/zRenardWatch2View" pc="268446041" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="154" parent="globals/zRenardWatch2View" pc="268446051" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="154" parent="globals/zRenardWatch2View" pc="268446076" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="155" parent="globals/zRenardWatch2View" pc="268446086" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="155" parent="globals/zRenardWatch2View" pc="268446111" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="156" parent="globals/zRenardWatch2View" pc="268446121" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="156" parent="globals/zRenardWatch2View" pc="268446146" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="157" parent="globals/zRenardWatch2View" pc="268446156" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="157" parent="globals/zRenardWatch2View" pc="268446181" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="158" parent="globals/zRenardWatch2View" pc="268446191" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="158" parent="globals/zRenardWatch2View" pc="268446216" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="159" parent="globals/zRenardWatch2View" pc="268446226" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="159" parent="globals/zRenardWatch2View" pc="268446251" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="161" parent="globals/zRenardWatch2View" pc="268446261" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="162" parent="globals/zRenardWatch2View" pc="268446280" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="163" parent="globals/zRenardWatch2View" pc="268446312" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="164" parent="globals/zRenardWatch2View" pc="268446355" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="166" parent="globals/zRenardWatch2View" pc="268446422" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="167" parent="globals/zRenardWatch2View" pc="268446481" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="170" parent="globals/zRenardWatch2View" pc="268446598" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="171" parent="globals/zRenardWatch2View" pc="268446622" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="173" parent="globals/zRenardWatch2View" pc="268446667" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="174" parent="globals/zRenardWatch2View" pc="268446672" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="175" parent="globals/zRenardWatch2View" pc="268446679" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="176" parent="globals/zRenardWatch2View" pc="268446689" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="177" parent="globals/zRenardWatch2View" pc="268446724" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="178" parent="globals/zRenardWatch2View" pc="268446734" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="180" parent="globals/zRenardWatch2View" pc="268446747" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="181" parent="globals/zRenardWatch2View" pc="268446768" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="182" parent="globals/zRenardWatch2View" pc="268446775" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="184" parent="globals/zRenardWatch2View" pc="268446799" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="188" parent="globals/zRenardWatch2View" pc="268446838" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="189" parent="globals/zRenardWatch2View" pc="268446867" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="190" parent="globals/zRenardWatch2View" pc="268446890" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="191" parent="globals/zRenardWatch2View" pc="268446901" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="192" parent="globals/zRenardWatch2View" pc="268447009" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="193" parent="globals/zRenardWatch2View" pc="268447020" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\source\\zRenardWatch2View.mc" id="24" lineNum="194" parent="globals/zRenardWatch2View" pc="268447063" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\bin\\gen\\no-device\\source\\Rez.mcgen" id="25" lineNum="74" parent="globals/Rez/Layouts" pc="268447128" symbol="WatchFace"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\bin\\gen\\no-device\\source\\Rez.mcgen" id="25" lineNum="75" parent="globals/Rez/Layouts" pc="268447140" symbol="WatchFace"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\zRenardWatch2\\bin\\gen\\no-device\\source\\Rez.mcgen" id="25" lineNum="77" parent="globals/Rez/Layouts" pc="268447168" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry field="true" id="48" symbol="ShowNotificationTitle"/>
-        <entry field="true" id="26" symbol="ForegroundColorSecondsTitle"/>
+        <entry field="true" id="109" symbol="ShowNotificationTitle"/>
+        <entry field="true" id="97" symbol="ForegroundColorSecondsTitle"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
-        <entry field="true" id="49" symbol="BatteryLevelTitle"/>
-        <entry field="true" id="23" symbol="HighLightColorTitle"/>
-        <entry field="true" id="40" symbol="ColorGreen"/>
+        <entry field="true" id="111" symbol="ShowWeatherTitle"/>
+        <entry id="7" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="85" symbol="BatteryLevelTitle"/>
+        <entry field="true" id="98" symbol="HighLightColorTitle"/>
+        <entry field="true" id="90" symbol="ColorGreen"/>
         <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-        <entry field="true" id="32" symbol="ColorRed"/>
-        <entry field="true" id="19" symbol="id_charge"/>
+        <entry field="true" id="93" symbol="ColorRed"/>
+        <entry field="true" id="49" symbol="id_charge"/>
+        <entry field="true" id="118" symbol="WeatherDayToday"/>
+        <entry field="true" id="75" symbol="id_w8"/>
+        <entry field="true" id="74" symbol="id_w6"/>
+        <entry field="true" id="70" symbol="id_w5"/>
+        <entry field="true" id="67" symbol="id_w4"/>
+        <entry field="true" id="62" symbol="id_w3"/>
+        <entry field="true" id="60" symbol="id_w2"/>
+        <entry field="true" id="51" symbol="id_w1"/>
+        <entry field="true" id="50" symbol="id_w0"/>
         <entry id="8388924" module="true" symbol="Gregorian"/>
-        <entry field="true" id="41" symbol="BatteryIconColorTitle"/>
+        <entry field="true" id="122" symbol="WeatherRefreshRateMinutesTitle"/>
+        <entry field="true" id="80" symbol="BatteryIconColorTitle"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="34" symbol="BatteryIconWidthTitle"/>
-        <entry field="true" id="14" symbol="modeSeconds"/>
-        <entry field="true" id="22" symbol="ColorBlue"/>
-        <entry field="true" id="33" symbol="UseSleepModeTitle"/>
-        <entry field="true" id="30" symbol="AppName"/>
+        <entry field="true" id="81" symbol="BatteryIconWidthTitle"/>
+        <entry field="true" id="18" symbol="modeSeconds"/>
+        <entry field="true" id="87" symbol="ColorBlue"/>
+        <entry field="true" id="113" symbol="UseSleepModeTitle"/>
+        <entry field="true" id="77" symbol="AppName"/>
+        <entry field="true" id="48" symbol="id_b8"/>
+        <entry field="true" id="47" symbol="id_b6"/>
+        <entry field="true" id="43" symbol="id_b5"/>
+        <entry field="true" id="40" symbol="id_b4"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry field="true" id="35" symbol="id_b3"/>
+        <entry field="true" id="33" symbol="id_b2"/>
+        <entry field="true" id="24" symbol="id_b1"/>
+        <entry field="true" id="23" symbol="id_b0"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry field="true" id="56" symbol="MoveDisplayTypeTitle"/>
-        <entry field="true" id="46" symbol="LeadingZeroTitle"/>
+        <entry field="true" id="102" symbol="MoveDisplayTypeTitle"/>
+        <entry field="true" id="99" symbol="LeadingZeroTitle"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
-        <entry field="true" id="51" symbol="ColorOrange"/>
+        <entry field="true" id="92" symbol="ColorOrange"/>
         <entry id="8390097" method="true" symbol="onPartialUpdate"/>
-        <entry field="true" id="55" symbol="ShowSecondsTitle"/>
+        <entry field="true" id="110" symbol="ShowSecondsTitle"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
-        <entry field="true" id="38" symbol="NotificationColorTitle"/>
-        <entry field="true" id="28" symbol="NotificationIconWidthTitle"/>
+        <entry field="true" id="105" symbol="NotificationColorTitle"/>
+        <entry field="true" id="120" symbol="WeatherIconColorTitle"/>
+        <entry field="true" id="107" symbol="NotificationIconWidthTitle"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry id="8391489" module="true" symbol="Weather"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-        <entry id="10" object="true" symbol="zRenardWatch2View"/>
-        <entry id="17" module="true" symbol="Menus"/>
-        <entry field="true" id="45" symbol="ColorDarkGray"/>
+        <entry id="11" object="true" symbol="zRenardWatch2View"/>
+        <entry id="13" module="true" symbol="Menus"/>
+        <entry field="true" id="89" symbol="ColorDarkGray"/>
         <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
-        <entry field="true" id="57" symbol="MoveColorTitle"/>
-        <entry field="true" id="58" symbol="MoveWidthTitle"/>
+        <entry field="true" id="101" symbol="MoveColorTitle"/>
+        <entry field="true" id="104" symbol="MoveWidthTitle"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
         <entry id="8389376" method="true" symbol="onEnterSleep"/>
-        <entry field="true" id="11" symbol="ico_charge"/>
-        <entry field="true" id="59" symbol="ColorCyan"/>
+        <entry field="true" id="17" symbol="ico_charge"/>
+        <entry field="true" id="88" symbol="ColorCyan"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry field="true" id="39" symbol="ColorWhite"/>
-        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
-        <entry field="true" id="47" symbol="ColorBlack"/>
-        <entry field="true" id="60" symbol="BatteryLevelCriticalError"/>
+        <entry field="true" id="94" symbol="ColorWhite"/>
+        <entry id="5" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="86" symbol="ColorBlack"/>
+        <entry field="true" id="82" symbol="BatteryLevelCriticalError"/>
+        <entry field="true" id="9" symbol="weatherIcons"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-        <entry field="true" id="35" symbol="MoveCircle"/>
-        <entry field="true" id="27" symbol="NotificationIconColorTitle"/>
+        <entry field="true" id="73" symbol="id_w53"/>
+        <entry field="true" id="72" symbol="id_w52"/>
+        <entry field="true" id="71" symbol="id_w50"/>
+        <entry field="true" id="69" symbol="id_w42"/>
+        <entry field="true" id="68" symbol="id_w41"/>
+        <entry field="true" id="100" symbol="MoveCircle"/>
+        <entry field="true" id="66" symbol="id_w37"/>
+        <entry field="true" id="65" symbol="id_w34"/>
+        <entry field="true" id="64" symbol="id_w33"/>
+        <entry field="true" id="63" symbol="id_w32"/>
+        <entry field="true" id="61" symbol="id_w23"/>
+        <entry field="true" id="59" symbol="id_w17"/>
+        <entry field="true" id="58" symbol="id_w16"/>
+        <entry field="true" id="57" symbol="id_w15"/>
+        <entry field="true" id="56" symbol="id_w14"/>
+        <entry field="true" id="55" symbol="id_w13"/>
+        <entry field="true" id="54" symbol="id_w12"/>
+        <entry field="true" id="53" symbol="id_w11"/>
+        <entry field="true" id="52" symbol="id_w10"/>
+        <entry field="true" id="116" symbol="WeatherDaySmart"/>
+        <entry field="true" id="106" symbol="NotificationIconColorTitle"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
-        <entry field="true" id="44" symbol="VerticalLineColorTitle"/>
+        <entry field="true" id="114" symbol="VerticalLineColorTitle"/>
         <entry id="8388644" module="true" symbol="System"/>
-        <entry field="true" id="37" symbol="VerticalLineWidthTitle"/>
-        <entry field="true" id="29" symbol="MoveIcons"/>
+        <entry field="true" id="115" symbol="VerticalLineWidthTitle"/>
+        <entry field="true" id="103" symbol="MoveIcons"/>
         <entry id="8388645" module="true" symbol="Time"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry id="8388640" module="true" symbol="Lang"/>
-        <entry field="true" id="13" symbol="font_vlarge"/>
-        <entry field="true" id="42" symbol="ShowMoveTitle"/>
+        <entry field="true" id="16" symbol="font_vlarge"/>
+        <entry field="true" id="108" symbol="ShowMoveTitle"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="117" symbol="WeatherDayTitle"/>
         <entry id="8389068" method="true" symbol="draw"/>
-        <entry field="true" id="20" symbol="LauncherIcon"/>
+        <entry field="true" id="22" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
         <entry id="15" method="true" symbol="drawPoly"/>
-        <entry field="true" id="18" symbol="ChargingIcon"/>
-        <entry field="true" id="12" symbol="sleepMode"/>
+        <entry field="true" id="21" symbol="ChargingIcon"/>
+        <entry field="true" id="19" symbol="sleepMode"/>
         <entry id="8389350" module="true" symbol="globals"/>
-        <entry field="true" id="53" symbol="BatteryColorTitle"/>
-        <entry field="true" id="24" symbol="BackgroundColorTitle"/>
+        <entry field="true" id="79" symbol="BatteryColorTitle"/>
+        <entry field="true" id="78" symbol="BackgroundColorTitle"/>
+        <entry field="true" id="14" symbol="delayedUpdate"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
         <entry id="8390146" module="true" object="true" symbol="Background"/>
-        <entry field="true" id="21" symbol="id_font_vlarge"/>
+        <entry field="true" id="76" symbol="id_font_vlarge"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="52" symbol="BatteryLevelError"/>
+        <entry field="true" id="84" symbol="BatteryLevelError"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="31" symbol="ForegroundColorMinutesTitle"/>
-        <entry field="true" id="43" symbol="ColorLightGray"/>
+        <entry field="true" id="96" symbol="ForegroundColorMinutesTitle"/>
+        <entry field="true" id="20" symbol="weatherCondition"/>
+        <entry field="true" id="91" symbol="ColorLightGray"/>
         <entry id="8391701" method="true" symbol="setAntiAlias"/>
-        <entry field="true" id="50" symbol="UltraSleepModeTitle"/>
-        <entry field="true" id="36" symbol="BatteryLevelCriticalTitle"/>
+        <entry field="true" id="112" symbol="UltraSleepModeTitle"/>
+        <entry field="true" id="83" symbol="BatteryLevelCriticalTitle"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry field="true" id="54" symbol="ForegroundColorTitle"/>
-        <entry id="16" module="true" symbol="Layouts"/>
-        <entry id="9" object="true" symbol="zRenardWatch2App"/>
-        <entry field="true" id="25" symbol="ForegroundColorHoursTitle"/>
-        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="46" symbol="id_b53"/>
+        <entry field="true" id="45" symbol="id_b52"/>
+        <entry field="true" id="44" symbol="id_b50"/>
+        <entry field="true" id="42" symbol="id_b42"/>
+        <entry field="true" id="41" symbol="id_b41"/>
+        <entry field="true" id="39" symbol="id_b37"/>
+        <entry field="true" id="38" symbol="id_b34"/>
+        <entry field="true" id="37" symbol="id_b33"/>
+        <entry field="true" id="36" symbol="id_b32"/>
+        <entry field="true" id="34" symbol="id_b23"/>
+        <entry field="true" id="32" symbol="id_b17"/>
+        <entry field="true" id="31" symbol="id_b16"/>
+        <entry field="true" id="30" symbol="id_b15"/>
+        <entry field="true" id="29" symbol="id_b14"/>
+        <entry field="true" id="28" symbol="id_b13"/>
+        <entry field="true" id="27" symbol="id_b12"/>
+        <entry field="true" id="26" symbol="id_b11"/>
+        <entry field="true" id="25" symbol="id_b10"/>
+        <entry field="true" id="119" symbol="WeatherDayTomorrow"/>
+        <entry id="12" module="true" symbol="Layouts"/>
+        <entry id="10" object="true" symbol="zRenardWatch2App"/>
+        <entry field="true" id="95" symbol="ForegroundColorHoursTitle"/>
+        <entry field="true" id="121" symbol="WeatherRefreshRateMinutesError"/>
+        <entry id="4" module="true" symbol="globals/Rez/Fonts"/>
         <entry id="8389125" method="true" symbol="onHide"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268435500" name="dictionary" stackId="1" startPc="268435460"/>
-        <entry arg="true" endPc="268435571" name="dc" stackId="1" startPc="268435502"/>
-        <entry arg="true" endPc="268435599" name="state" stackId="1" startPc="268435595"/>
-        <entry arg="true" endPc="268435604" name="state" stackId="1" startPc="268435600"/>
-        <entry arg="true" endPc="268435742" name="dc" stackId="1" startPc="268435701"/>
-        <entry endPc="268439425" name="notification" stackId="25" startPc="268439121"/>
-        <entry endPc="268439428" name="textBattery" stackId="24" startPc="268437927"/>
-        <entry endPc="268439428" name="battery_level" stackId="23" startPc="268437927"/>
-        <entry endPc="268439431" name="fgC" stackId="11" startPc="268436054"/>
-        <entry endPc="268439431" name="moveColor" stackId="9" startPc="268436054"/>
-        <entry endPc="268439431" name="now" stackId="16" startPc="268436054"/>
-        <entry endPc="268439431" name="myMinutes" stackId="20" startPc="268436054"/>
-        <entry endPc="268439431" name="showMove" stackId="7" startPc="268436054"/>
-        <entry endPc="268439431" name="nowText" stackId="17" startPc="268436054"/>
-        <entry endPc="268439431" name="fgHC" stackId="12" startPc="268436054"/>
-        <entry endPc="268439431" name="myDay" stackId="22" startPc="268436054"/>
-        <entry endPc="268439431" name="moveLevel" stackId="10" startPc="268436054"/>
-        <entry endPc="268439431" name="myHours" stackId="19" startPc="268436054"/>
-        <entry endPc="268439431" name="mySecondes" stackId="21" startPc="268436054"/>
-        <entry endPc="268439431" name="moveDisplayType" stackId="8" startPc="268436054"/>
-        <entry endPc="268439431" name="height" stackId="6" startPc="268436054"/>
-        <entry endPc="268439431" name="width" stackId="5" startPc="268436054"/>
-        <entry endPc="268439431" name="hours" stackId="18" startPc="268436054"/>
-        <entry endPc="268439431" name="hlC" stackId="15" startPc="268436054"/>
-        <entry endPc="268439431" name="fgMC" stackId="13" startPc="268436054"/>
-        <entry endPc="268439431" name="fgSC" stackId="14" startPc="268436054"/>
-        <entry endPc="268439434" name="battery" stackId="2" startPc="268435752"/>
-        <entry endPc="268439434" name="modeSeconds" stackId="4" startPc="268435752"/>
-        <entry endPc="268439434" name="bgC" stackId="3" startPc="268435752"/>
-        <entry arg="true" endPc="268439435" name="dc" stackId="1" startPc="268435748"/>
-        <entry endPc="268440036" name="height" stackId="7" startPc="268439490"/>
-        <entry endPc="268440036" name="now" stackId="3" startPc="268439490"/>
-        <entry endPc="268440036" name="width" stackId="6" startPc="268439490"/>
-        <entry endPc="268440036" name="fgSC" stackId="8" startPc="268439490"/>
-        <entry endPc="268440036" name="nowText" stackId="4" startPc="268439490"/>
-        <entry endPc="268440036" name="mySecondes" stackId="5" startPc="268439490"/>
-        <entry endPc="268440036" name="bgC" stackId="9" startPc="268439490"/>
-        <entry endPc="268440039" name="modeSeconds" stackId="2" startPc="268439440"/>
-        <entry arg="true" endPc="268440040" name="dc" stackId="1" startPc="268439436"/>
-        <entry endPc="268440322" name="i" stackId="15" startPc="268440216"/>
-        <entry endPc="268440322" name="x2" stackId="13" startPc="268440045"/>
-        <entry endPc="268440322" name="x1" stackId="11" startPc="268440045"/>
-        <entry endPc="268440322" name="y2" stackId="14" startPc="268440045"/>
-        <entry endPc="268440322" name="y1" stackId="12" startPc="268440045"/>
-        <entry endPc="268440322" name="angle" stackId="10" startPc="268440045"/>
-        <entry arg="true" endPc="268440323" name="width" stackId="7" startPc="268440041"/>
-        <entry arg="true" endPc="268440323" name="color" stackId="6" startPc="268440041"/>
-        <entry arg="true" endPc="268440323" name="numberOfSides" stackId="8" startPc="268440041"/>
-        <entry arg="true" endPc="268440323" name="numberDisplayed" stackId="9" startPc="268440041"/>
-        <entry arg="true" endPc="268440323" name="radius" stackId="4" startPc="268440041"/>
-        <entry arg="true" endPc="268440323" name="y" stackId="3" startPc="268440041"/>
-        <entry arg="true" endPc="268440323" name="x" stackId="2" startPc="268440041"/>
-        <entry arg="true" endPc="268440323" name="dc" stackId="1" startPc="268440041"/>
-        <entry arg="true" endPc="268440323" name="rotation" stackId="5" startPc="268440041"/>
-        <entry endPc="268440411" name="rez_cmp_local_custom_drawable_13235899926921247419" stackId="2" startPc="268440371"/>
-        <entry arg="true" endPc="268440412" name="dc" stackId="1" startPc="268440359"/>
+        <entry endPc="268442342" name="dictionary" stackId="1" startPc="268442302"/>
+        <entry arg="true" endPc="268442401" name="dc" stackId="1" startPc="268442344"/>
+        <entry arg="true" endPc="268442812" name="dc" stackId="1" startPc="268442552"/>
+        <entry arg="true" endPc="268442812" name="x" stackId="2" startPc="268442552"/>
+        <entry arg="true" endPc="268442812" name="y" stackId="3" startPc="268442552"/>
+        <entry arg="true" endPc="268442812" name="radius" stackId="4" startPc="268442552"/>
+        <entry arg="true" endPc="268442812" name="rotation" stackId="5" startPc="268442552"/>
+        <entry arg="true" endPc="268442812" name="color" stackId="6" startPc="268442552"/>
+        <entry arg="true" endPc="268442812" name="width" stackId="7" startPc="268442552"/>
+        <entry arg="true" endPc="268442812" name="numberOfSides" stackId="8" startPc="268442552"/>
+        <entry arg="true" endPc="268442812" name="numberDisplayed" stackId="9" startPc="268442552"/>
+        <entry endPc="268442811" name="angle" stackId="10" startPc="268442556"/>
+        <entry endPc="268442811" name="x1" stackId="11" startPc="268442556"/>
+        <entry endPc="268442811" name="y1" stackId="12" startPc="268442556"/>
+        <entry endPc="268442811" name="x2" stackId="13" startPc="268442556"/>
+        <entry endPc="268442811" name="y2" stackId="14" startPc="268442556"/>
+        <entry endPc="268442811" name="i" stackId="15" startPc="268442705"/>
+        <entry arg="true" endPc="268442856" name="dc" stackId="1" startPc="268442813"/>
+        <entry arg="true" endPc="268443362" name="dc" stackId="1" startPc="268442857"/>
+        <entry endPc="268443361" name="modeSeconds" stackId="2" startPc="268442861"/>
+        <entry endPc="268443358" name="nowText" stackId="3" startPc="268442908"/>
+        <entry endPc="268443358" name="mySecondes" stackId="4" startPc="268442908"/>
+        <entry endPc="268443358" name="width" stackId="5" startPc="268442908"/>
+        <entry endPc="268443358" name="height" stackId="6" startPc="268442908"/>
+        <entry endPc="268443358" name="fgSC" stackId="7" startPc="268442908"/>
+        <entry endPc="268443358" name="bgC" stackId="8" startPc="268442908"/>
+        <entry arg="true" endPc="268447127" name="dc" stackId="1" startPc="268443407"/>
+        <entry endPc="268447126" name="battery" stackId="2" startPc="268443411"/>
+        <entry endPc="268447126" name="bgC" stackId="3" startPc="268443411"/>
+        <entry endPc="268447126" name="modeSeconds" stackId="4" startPc="268443411"/>
+        <entry endPc="268447126" name="showWeather" stackId="5" startPc="268443411"/>
+        <entry endPc="268447126" name="delayedUpdateMax" stackId="6" startPc="268443411"/>
+        <entry endPc="268447126" name="weatherConditionDay" stackId="7" startPc="268443411"/>
+        <entry endPc="268447126" name="nowText" stackId="8" startPc="268443411"/>
+        <entry endPc="268443801" name="weather" stackId="9" startPc="268443659"/>
+        <entry endPc="268447123" name="width" stackId="10" startPc="268444038"/>
+        <entry endPc="268447123" name="height" stackId="11" startPc="268444038"/>
+        <entry endPc="268447123" name="showMove" stackId="12" startPc="268444038"/>
+        <entry endPc="268447123" name="moveDisplayType" stackId="13" startPc="268444038"/>
+        <entry endPc="268447123" name="moveColor" stackId="14" startPc="268444038"/>
+        <entry endPc="268447123" name="moveLevel" stackId="15" startPc="268444038"/>
+        <entry endPc="268447123" name="fgHC" stackId="16" startPc="268444038"/>
+        <entry endPc="268447123" name="fgMC" stackId="17" startPc="268444038"/>
+        <entry endPc="268447123" name="fgSC" stackId="18" startPc="268444038"/>
+        <entry endPc="268447123" name="hlC" stackId="19" startPc="268444038"/>
+        <entry endPc="268447123" name="hours" stackId="20" startPc="268444038"/>
+        <entry endPc="268447123" name="myHours" stackId="21" startPc="268444038"/>
+        <entry endPc="268447123" name="myMinutes" stackId="22" startPc="268444038"/>
+        <entry endPc="268447123" name="mySecondes" stackId="23" startPc="268444038"/>
+        <entry endPc="268447123" name="myDay" stackId="24" startPc="268444038"/>
+        <entry endPc="268447120" name="battery_level" stackId="25" startPc="268445626"/>
+        <entry endPc="268447120" name="textBattery" stackId="26" startPc="268445626"/>
+        <entry endPc="268446834" name="defaultConditionIcon" stackId="27" startPc="268446672"/>
+        <entry endPc="268446834" name="conditionIcon" stackId="28" startPc="268446672"/>
+        <entry endPc="268446834" name="ico_weather" stackId="29" startPc="268446672"/>
+        <entry endPc="268447117" name="notification" stackId="30" startPc="268446867"/>
+        <entry arg="true" endPc="268447184" name="dc" stackId="1" startPc="268447128"/>
+        <entry endPc="268447184" name="rez_cmp_local_custom_drawable_68221668658867467594" stackId="2" startPc="268447140"/>
     </localVars>
     <annotations>
-        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="ChargingIcon"/>
-        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_charge"/>
-        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
-        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="id_font_vlarge"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HighLightColorTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorHoursTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorSecondsTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="NotificationIconColorTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="NotificationIconWidthTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MoveIcons"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorMinutesTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="UseSleepModeTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryIconWidthTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MoveCircle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryLevelCriticalTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="VerticalLineWidthTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="NotificationColorTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorGreen"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryIconColorTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b50"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b53"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b52"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowMoveTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="VerticalLineColorTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="LeadingZeroTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MoveCircle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="WeatherRefreshRateMinutesTitle"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowNotificationTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryLevelTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="UltraSleepModeTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorOrange"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="WeatherDayTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryLevelCriticalError"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="NotificationIconColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorSecondsTitle"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryLevelError"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryColorTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowSecondsTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HighLightColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="NotificationIconWidthTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MoveDisplayTypeTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b4"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowWeatherTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b5"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b6"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b0"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b1"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b2"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b3"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="WeatherDayTomorrow"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="VerticalLineWidthTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b8"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryLevelTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w13"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w12"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryColorTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w11"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="VerticalLineColorTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w10"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w17"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w16"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w15"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w14"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="NotificationColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="WeatherDayToday"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MoveColorTitle"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MoveWidthTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w23"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b10"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryIconColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="WeatherDaySmart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b13"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b14"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b11"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b12"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="id_font_vlarge"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="UltraSleepModeTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b17"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b15"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b16"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="ChargingIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowSecondsTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MoveIcons"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w34"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w33"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w32"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w37"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorHoursTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b23"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w42"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w41"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryIconWidthTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorMinutesTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryLevelCriticalTitle"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorCyan"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryLevelCriticalError"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b32"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b33"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b34"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b37"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="LeadingZeroTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w1"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorGreen"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w2"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w3"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w4"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_charge"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w0"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w53"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w52"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w50"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="WeatherIconColorTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w5"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowNotificationTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w6"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_w8"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorOrange"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b42"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_b41"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="WeatherRefreshRateMinutesError"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="UseSleepModeTitle"/>
     </annotations>
     <dataEntryOffsetMappings>
         <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry label="globals/zRenardWatch2View" offset="158" parentId="globals" symbolId="zRenardWatch2View" type="class"/>
-        <dataEntry label="globals/Background" offset="301" parentId="globals" symbolId="Background" type="class"/>
-        <dataEntry label="globals/Rez" offset="356" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry label="globals/Rez/Drawables" offset="435" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Menus" offset="490" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry label="globals/Rez/Fonts" offset="521" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="560" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/JsonData" offset="599" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="630" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/zRenardWatch2App" offset="973" parentId="globals" symbolId="zRenardWatch2App" type="class"/>
+        <dataEntry label="globals/zRenardWatch2App" offset="536" parentId="globals" symbolId="zRenardWatch2App" type="class"/>
+        <dataEntry label="globals/Background" offset="615" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/Rez" offset="670" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/zRenardWatch2View" offset="749" parentId="globals" symbolId="zRenardWatch2View" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="908" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1379" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="1418" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="1449" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1488" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="1887" parentId="Rez" symbolId="JsonData" type="module"/>
     </dataEntryOffsetMappings>
     <functions>
-        <functionEntry accessMode="public" endPc="268435501" name="initialize" parent="Background" startPc="268435456">
+        <functionEntry accessMode="public" endPc="268435493" name="&lt;init&gt;" parent="zRenardWatch2App" startPc="268435475">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435571" name="draw" parent="Background" startPc="268435502">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440537" name="&lt;init&gt;" parent="Background" startPc="268440519">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268435594" name="initialize" parent="zRenardWatch2App" startPc="268435572">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268435599" name="onStart" parent="zRenardWatch2App" startPc="268435595">
+        <functionEntry accessMode="public" endPc="268435496" name="onStart" parent="zRenardWatch2App" startPc="268435494">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435604" name="onStop" parent="zRenardWatch2App" startPc="268435600">
+        <functionEntry accessMode="public" endPc="268435515" name="onSettingsChanged" parent="zRenardWatch2App" startPc="268435497">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435558" name="getInitialView" parent="zRenardWatch2App" startPc="268435516">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442275" name="initialize" parent="zRenardWatch2App" startPc="268435559">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442278" name="onStop" parent="zRenardWatch2App" startPc="268442276">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435646" name="getInitialView" parent="zRenardWatch2App" startPc="268435605">
+        <functionEntry accessMode="public" endPc="268442297" name="&lt;init&gt;" parent="Background" startPc="268442279">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435667" name="onSettingsChanged" parent="zRenardWatch2App" startPc="268435647">
+        <functionEntry accessMode="public" endPc="268442343" name="initialize" parent="Background" startPc="268442298">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440586" name="&lt;init&gt;" parent="zRenardWatch2App" startPc="268440568">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268435700" name="initialize" parent="zRenardWatch2View" startPc="268435668">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268435742" name="onLayout" parent="zRenardWatch2View" startPc="268435701">
+        <functionEntry accessMode="public" endPc="268442401" name="draw" parent="Background" startPc="268442344">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435747" name="onShow" parent="zRenardWatch2View" startPc="268435743">
+        <functionEntry accessMode="public" endPc="268442425" name="&lt;init&gt;" parent="Rez" startPc="268442402">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439435" name="onUpdate" parent="zRenardWatch2View" startPc="268435748">
-            <param id="dc"/>
+        <functionEntry accessMode="public" endPc="268442538" name="&lt;init&gt;" parent="zRenardWatch2View" startPc="268442426">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440040" name="onPartialUpdate" parent="zRenardWatch2View" startPc="268439436">
-            <param id="dc"/>
+        <functionEntry accessMode="public" endPc="268442551" name="onExitSleep" parent="zRenardWatch2View" startPc="268442539">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440323" name="drawPoly" parent="zRenardWatch2View" startPc="268440041">
+        <functionEntry accessMode="public" name="onShow" parent="zRenardWatch2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442812" name="drawPoly" parent="zRenardWatch2View" startPc="268442552">
             <param id="dc"/>
             <param id="x"/>
             <param id="y"/>
@@ -440,41 +678,47 @@
             <param id="numberDisplayed"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440328" name="onHide" parent="zRenardWatch2View" startPc="268440324">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268440343" name="onExitSleep" parent="zRenardWatch2View" startPc="268440329">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268440358" name="onEnterSleep" parent="zRenardWatch2View" startPc="268440344">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440518" name="&lt;init&gt;" parent="zRenardWatch2View" startPc="268440414">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440562" name="&lt;init&gt;" parent="Drawables" startPc="268440562">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440564" name="&lt;init&gt;" parent="Fonts" startPc="268440564">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440566" name="&lt;init&gt;" parent="JsonData" startPc="268440566">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268440412" name="WatchFace" parent="Layouts" startPc="268440359">
+        <functionEntry accessMode="public" endPc="268442856" name="onLayout" parent="zRenardWatch2View" startPc="268442813">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440565" name="&lt;init&gt;" parent="Layouts" startPc="268440565">
+        <functionEntry accessMode="public" endPc="268443362" name="onPartialUpdate" parent="zRenardWatch2View" startPc="268442857">
+            <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440563" name="&lt;init&gt;" parent="Menus" startPc="268440563">
+        <functionEntry accessMode="public" endPc="268443375" name="onEnterSleep" parent="zRenardWatch2View" startPc="268443363">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440567" name="&lt;init&gt;" parent="Strings" startPc="268440567">
+        <functionEntry accessMode="public" endPc="268443406" name="initialize" parent="zRenardWatch2View" startPc="268443376">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440561" name="&lt;init&gt;" parent="Rez" startPc="268440538">
+        <functionEntry accessMode="public" name="onHide" parent="zRenardWatch2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268447127" name="onUpdate" parent="zRenardWatch2View" startPc="268443407">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268447184" name="WatchFace" parent="Layouts" startPc="268447128">
+            <param id="dc"/>
             <documentation/>
         </functionEntry>
     </functions>

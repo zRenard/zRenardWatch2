@@ -1,9 +1,12 @@
 <properties>
     <property id="BackgroundColor" type="number">0x000000</property>
-    <property id="ForegroundColor" type="number">0x00FFFF</property>
     <property id="ForegroundColorHours" type="number">0x00FFFF</property>
     <property id="ForegroundColorMinutes" type="number">0x00FFFF</property>
     <property id="ForegroundColorSeconds" type="number">0x00FFFF</property>
+    <property id="ShowWeather" type="boolean">true</property>
+    <property id="WeatherIconColor" type="number">1</property>
+    <property id="WeatherDay" type="number">2</property>
+    <property id="WeatherRefreshRateMinutes" type="number">30</property>
     <property id="HighLightColor" type="number">0xFFFFFF</property>
     <property id="VerticalLineColor" type="number">0xFFFFFF</property>
     <property id="ShowNotification" type="boolean">true</property>

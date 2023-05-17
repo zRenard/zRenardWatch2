@@ -2,7 +2,6 @@
 	<string id="AppName">zRenardWatch2</string>
 
     <string id="BackgroundColorTitle">Background color</string>
-    <string id="ForegroundColorTitle">Foreground color</string>
     <string id="ForegroundColorHoursTitle">Foreground color for hours</string>
     <string id="ForegroundColorMinutesTitle">Foreground color for minutes</string>
     <string id="ForegroundColorSecondsTitle">Foreground color for seconds</string>
@@ -13,7 +12,7 @@
     <string id="NotificationColorTitle">Notification text color</string>
     <string id="NotificationIconColorTitle">Notification icon color</string>
     
-    <string id="ShowSecondsTitle">Show seconds</string>
+    <string id="ShowSecondsTitle">Display seconds</string>
     <string id="LeadingZeroTitle">Use leading Zero in hours, minutes and date</string>
     <string id="UseSleepModeTitle">Use sleep mode to hide date and notification</string>
     <string id="UltraSleepModeTitle">Display bank screen when battery is bellow critical level, and show it only when exiting sleep mode</string>
@@ -21,6 +20,16 @@
     <string id="BatteryLevelTitle">Minimum Battery Level to display</string>
 	<string id="BatteryLevelError">Must be between 5 and 95</string>
 	
+	<string id="ShowWeatherTitle">Display weather conditions</string>
+	<string id="WeatherIconColorTitle">Weather icon color</string>
+	<string id="WeatherDayTitle">Weather condition to display</string>
+    <string id="WeatherDayToday">Today</string>
+    <string id="WeatherDayTomorrow">Tomorrow</string>
+    <string id="WeatherDaySmart">Smart (Today before noon, Tomorrow after)</string>
+	
+    <string id="WeatherRefreshRateMinutesTitle">Minimum refresh rate for weather (in minutes)</string>
+	<string id="WeatherRefreshRateMinutesError">Must be between 5 and 240 minutes (4h)</string>
+    
     <string id="BatteryLevelCriticalTitle">Minimum Battery Level to display a warning</string>
 	<string id="BatteryLevelCriticalError">Must be between 2 and 30</string>
 

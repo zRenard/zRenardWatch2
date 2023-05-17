@@ -2,7 +2,6 @@
     <string id="AppName">zRenardWatch</string>
 
     <string id="BackgroundColorTitle">Couleur de fond</string>
-    <string id="ForegroundColorTitle">Couleur du texte</string>
     <string id="ForegroundColorHoursTitle">Couleur du texte des heures</string>
     <string id="ForegroundColorMinutesTitle">Couleur du texte des minutes</string>
     <string id="ForegroundColorSecondsTitle">Couleur du texte des secondes</string>
@@ -24,6 +23,16 @@
     <string id="BatteryLevelCriticalTitle">Le niveau minimum de la batterie qui declanche l'affichage d'une alerte</string>
 	<string id="BatteryLevelCriticalError">Le niveau doit etre entre 2 et 30</string>
 
+	<string id="ShowWeatherTitle">Afficher les conditions méteo</string>
+	<string id="WeatherIconColorTitle">Couleur de l'icone méteo</string>
+	<string id="WeatherDayTitle">Condition méteo à afficher</string>
+    <string id="WeatherDayToday">Aujourd'hui</string>
+    <string id="WeatherDayTomorrow">Demain</string>
+    <string id="WeatherDaySmart">Intelligent (Aujourd'hui jusqu'a midi, puis Demain)</string>
+
+    <string id="WeatherRefreshRateMinutesTitle">Delai de mise à jour de la méteo (en minutes)</string>
+	<string id="WeatherRefreshRateMinutesError">Le delai doit être compris entre 5 et 240 minutes (4h)</string>
+	
 	<string id="ShowMoveTitle">Affiche l'inactivité</string>
     <string id="MoveDisplayTypeTitle">Mode pour l'inactivité</string>
 	<string id="MoveCircle">Sous forme de cercle</string>

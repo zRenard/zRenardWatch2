@@ -1,4 +1,58 @@
 <resources>
    	<bitmap id="id_charge" filename="drawables/charging_icon.png" />
+   	<bitmap id="id_w0" filename="drawables/w0.png" />
+    <bitmap id="id_w1" filename="drawables/w1.png" />
+    <bitmap id="id_w2" filename="drawables/w2.png" />
+    <bitmap id="id_w3" filename="drawables/w3.png" />
+    <bitmap id="id_w4" filename="drawables/w4.png" />
+    <bitmap id="id_w5" filename="drawables/w5.png" />
+    <bitmap id="id_w6" filename="drawables/w6.png" />
+    <bitmap id="id_w8" filename="drawables/w8.png" />
+    <bitmap id="id_w10" filename="drawables/w10.png" />
+    <bitmap id="id_w11" filename="drawables/w11.png" />
+    <bitmap id="id_w12" filename="drawables/w12.png" />
+    <bitmap id="id_w13" filename="drawables/w13.png" />
+    <bitmap id="id_w14" filename="drawables/w14.png" />
+    <bitmap id="id_w15" filename="drawables/w15.png" />
+    <bitmap id="id_w16" filename="drawables/w16.png" />
+    <bitmap id="id_w17" filename="drawables/w17.png" />
+    <bitmap id="id_w23" filename="drawables/w23.png" />
+    <bitmap id="id_w32" filename="drawables/w32.png" />
+    <bitmap id="id_w33" filename="drawables/w33.png" />
+    <bitmap id="id_w34" filename="drawables/w34.png" />
+    <bitmap id="id_w37" filename="drawables/w37.png" />
+    <bitmap id="id_w41" filename="drawables/w41.png" />
+    <bitmap id="id_w42" filename="drawables/w42.png" />
+    <bitmap id="id_w50" filename="drawables/w50.png" />
+    <bitmap id="id_w52" filename="drawables/w52.png" />
+    <bitmap id="id_w53" filename="drawables/w53.png" />  	
+   	   	
+	<bitmap id="id_b0" filename="drawables/b0.png" />
+    <bitmap id="id_b1" filename="drawables/b1.png" />
+    <bitmap id="id_b2" filename="drawables/b2.png" />
+    <bitmap id="id_b3" filename="drawables/b3.png" />
+    <bitmap id="id_b4" filename="drawables/b4.png" />
+    <bitmap id="id_b5" filename="drawables/b5.png" />
+    <bitmap id="id_b6" filename="drawables/b6.png" />
+    <bitmap id="id_b8" filename="drawables/b8.png" />
+    <bitmap id="id_b10" filename="drawables/b10.png" />
+    <bitmap id="id_b11" filename="drawables/b11.png" />
+    <bitmap id="id_b12" filename="drawables/b12.png" />
+    <bitmap id="id_b13" filename="drawables/b13.png" />
+    <bitmap id="id_b14" filename="drawables/b14.png" />
+    <bitmap id="id_b15" filename="drawables/b15.png" />
+    <bitmap id="id_b16" filename="drawables/b16.png" />
+    <bitmap id="id_b17" filename="drawables/b17.png" />
+    <bitmap id="id_b23" filename="drawables/b23.png" />
+    <bitmap id="id_b32" filename="drawables/b32.png" />
+    <bitmap id="id_b33" filename="drawables/b33.png" />
+    <bitmap id="id_b34" filename="drawables/b34.png" />
+    <bitmap id="id_b37" filename="drawables/b37.png" />
+    <bitmap id="id_b41" filename="drawables/b41.png" />
+    <bitmap id="id_b42" filename="drawables/b42.png" />
+    <bitmap id="id_b50" filename="drawables/b50.png" />
+    <bitmap id="id_b52" filename="drawables/b52.png" />
+    <bitmap id="id_b53" filename="drawables/b53.png" />   	
+   	
    	<font id="id_font_vlarge" filename="fonts/vlarge.fnt" antialias="true" filter="0123456789:"/>
 </resources>
