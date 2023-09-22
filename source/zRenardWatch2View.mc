@@ -46,22 +46,27 @@ class zRenardWatch2View extends WatchUi.WatchFace {
       	if (delayedUpdate>delayedUpdateMax) { delayedUpdate=delayedUpdateMax; }
         var weatherConditionDay = Application.Properties.getValue("WeatherDay");
  		var nowText = Gregorian.info(Time.now(), Time.FORMAT_MEDIUM);
-        
+
+		if (!(Toybox has :Weather)) {
+			showWeather=false;
+			Application.Properties.setValue("ShowWeather",false);
+		}
+
         if (showWeather) { // compute weather only if needed
         	if (delayedUpdate==0 || weatherCondition==-1) {
-		        var weather = Weather.getDailyForecast();
-		        if (weather!= null) {	
-		        	if (weatherConditionDay==3) { // Smart way to get weather
-		        	 if (nowText.hour.toNumber()<12) { // Before noon
-		        	 	weatherCondition=weather[1].condition; // Today weather
-		        	 } else {
-		        	 	weatherCondition=weather[2].condition; // Tommorow weather
-		        	 }
-		        	} else { // Otherwise we rely on settings (Today or Tommorow)
-		        		weatherCondition=weather[weatherConditionDay].condition;
-		        	}
-		        }
-		        delayedUpdate=delayedUpdateMax;
+				var weather = Weather.getDailyForecast();
+				if (weather!= null) {	
+					if (weatherConditionDay==3) { // Smart way to get weather
+					if (nowText.hour.toNumber()<12) { // Before noon
+						weatherCondition=weather[1].condition; // Today weather
+					} else {
+						weatherCondition=weather[2].condition; // Tommorow weather
+					}
+					} else { // Otherwise we rely on settings (Today or Tommorow)
+						weatherCondition=weather[weatherConditionDay].condition;
+					}
+				}
+				delayedUpdate=delayedUpdateMax;
 	        } else { // Used to reduce the update rate of the weather
 	         	delayedUpdate=delayedUpdate-1;
 		    }  
@@ -181,7 +186,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 		         	if (ico_weather==null) {
 						ico_weather = weatherIcons.get(defaultConditionIcon);
 					}
-					dc.drawBitmap((width / 2)-20/2, height-20, ico_weather);		         
+					dc.drawBitmap((width / 2)-20/2, height-20, ico_weather);
 		         }
 		        }
 		        
