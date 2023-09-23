@@ -168,7 +168,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 		        }
 		
 		        if (System.getSystemStats().charging ) {
-					dc.drawBitmap((width / 2)-20/2, height-20, ico_charge);
+					dc.drawBitmap((width / 2)-20/2, height-25, ico_charge);
 		        } else {
 		         if (showWeather) {
 		         	var defaultConditionIcon = 53; // default icon ? for unknow weather
@@ -181,7 +181,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 		         	if (ico_weather==null) {
 						ico_weather = weatherIcons.get(defaultConditionIcon);
 					}
-					dc.drawBitmap((width / 2)-20/2, height-20, ico_weather);		         
+					dc.drawBitmap((width / 2)-20/2, height-25, ico_weather);		         
 		         }
 		        }
 		        

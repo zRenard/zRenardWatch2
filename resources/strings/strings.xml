@@ -25,8 +25,7 @@
 	<string id="WeatherDayTitle">Weather condition to display</string>
     <string id="WeatherDayToday">Today</string>
     <string id="WeatherDayTomorrow">Tomorrow</string>
-    <string id="WeatherDaySmart">Smart (Today before noon, Tomorrow after)</string>
-	
+    <string id="WeatherDaySmart">Smart (Today before noon, Tomorrow after)</string>	
     <string id="WeatherRefreshRateMinutesTitle">Minimum refresh rate for weather (in minutes)</string>
 	<string id="WeatherRefreshRateMinutesError">Must be between 5 and 240 minutes (4h)</string>
     
