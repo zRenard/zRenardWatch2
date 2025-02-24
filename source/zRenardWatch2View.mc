@@ -57,12 +57,12 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 				var weather = Weather.getDailyForecast();
 				if (weather!= null) {	
 					if (weatherConditionDay==3) { // Smart way to get weather
-					if (nowText.hour.toNumber()<12) { // Before noon
-						weatherCondition=weather[1].condition; // Today weather
-					} else {
-						weatherCondition=weather[2].condition; // Tommorow weather
-					}
-					} else { // Otherwise we rely on settings (Today or Tommorow)
+						if (nowText.hour.toNumber()<12) { // Before noon
+							weatherCondition=weather[1].condition; // Today weather
+						} else {
+							weatherCondition=weather[2].condition; // Tomorrow weather
+						}
+					} else { // Otherwise we rely on settings (Today or Tomorrow)
 						weatherCondition=weather[weatherConditionDay].condition;
 					}
 				}
@@ -142,7 +142,7 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 	
 			dc.setColor(hlC ,Graphics.COLOR_TRANSPARENT);
 			if (!sleepMode || (sleepMode && !Application.Properties.getValue("UseSleepMode"))) {
-				// Date if not in sleep mode (or sleep mode desactivated)
+				// Date if not in sleep mode (or sleep mode deactivated)
 				//dc.drawText( (width / 2), (height /2)+60-20, Graphics.FONT_TINY, nowText.day_of_week+" "+myDay+" "+nowText.month+" "+nowText.year, Graphics.TEXT_JUSTIFY_CENTER);
 
 				if (modeSeconds) {
@@ -176,8 +176,8 @@ class zRenardWatch2View extends WatchUi.WatchFace {
 					dc.drawBitmap((width / 2)-20/2, height-25, ico_charge);
 		        } else {
 		         if (showWeather) {
-		         	var defaultConditionIcon = 53; // default icon ? for unknow weather
-		         	var conditionIcon = weatherCondition;
+		         	var defaultConditionIcon = 53; // default icon ? for unknown weather
+		         	var conditionIcon = weatherCondition>=0?weatherCondition:defaultConditionIcon; // Avoid -1 as conditionIcon
 		         	if (Application.Properties.getValue("WeatherIconColor")==0) { //Black icon
 		         		conditionIcon=conditionIcon+100;
 		         		defaultConditionIcon=defaultConditionIcon+100;

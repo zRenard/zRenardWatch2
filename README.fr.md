@@ -1,60 +1,69 @@
 # zRenardWatch2
+
 Garmin Watch Face
-Affichage numÈrique avec octogone pour les icons
+Affichage num√©rique avec octogone pour les icons
 
-Disponible sur Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/7ea7d729-a010-4dd7-9cf0-f573f06334a4
-# PossibilitÈ de configuration
+Disponible sur Garmin ConnectIQ : <https://apps.garmin.com/fr-FR/apps/7ea7d729-a010-4dd7-9cf0-f573f06334a4>
 
-## Couleurs
+## Possibilit√© de configuration
+
+### Couleurs
+
 * Fond
 * Heure
 * Date
-* Icones MÈteo
+* Ic√¥nes m√©t√©o
 
-## Affichage
+### Affichage
+
 * Notifications (On/Off)
-* MÈteo (On/Off)
-* Mode economie (On/Off). En mode Èconomie, uniquement l'horologe est affichÈe.
+* M√©t√©o (On/Off)
+* Mode √©conomie (On/Off). En mode √©conomie, uniquement l'horologe est affich√©e.
 
-## Affichage du niveau de la batterie
-* Valeur minimum pour líaffichage de l'icone de la batterie
-* Valeur minimum pour líaffichage texte de la batterie
+### Affichage du niveau de la batterie
 
-## Status d'inactivitÈ
-* Affichage d'inactivitÈ (On/Off)
-* Affichage sous forme de cercle ou d'icÙnes
-* Couleur du cercle et de l'icÙne d'inactivitÈ.
+* Valeur minimum pour l‚Äôaffichage de l‚Äôic√¥ne de la batterie
+* Valeur minimum pour l‚Äôaffichage texte de la batterie
 
-## Historique des version
+### Status d'inactivit√©
+
+* Affichage d'inactivit√© (On/Off)
+* Affichage sous forme de cercle ou d'ic√¥nes
+* Couleur du cercle et de l‚Äôic√¥ne d'inactivit√©
+
+### Historique des version
+
+* 1.5.1
+  * (*correction*) Correction d'erreur en cas de m√©t√©o non disponible <https://github.com/zRenard/zRenardWatch2/issues/12>
 * 1.5.0
-	* (**nouveautÈs**) Ajout de la mÈteo sous forme d'icones
+  * (**nouveaut√©s**) Ajout de la m√©t√©o sous forme d‚Äôic√¥nes
 * 1.4.6
-	* (**nouveautÈs**) Ajout des nouvelles montres 955/Solar, 745, Marq, Venu et Vivo
-	* (**nouveautÈs**) Support du nouveau SDK
+  * (**nouveaut√©s**) Ajout des nouvelles montres 955/Solar, 745, Marq, Venu et Vivo
+  * (**nouveaut√©s**) Support du nouveau SDK
 * 1.4.5
-	* (**nouveautÈs**) Ajout du support de la nouvelle Fenix 7 et des nouveaux modËles
+  * (**nouveaut√©s**) Ajout du support de la nouvelle Fenix 7 et des nouveaux mod√®les
 * 1.4.4
-     * (*correction*) L'icone d'inactivitÈ n'Ètait jamais complete https://github.com/zRenard/zRenardWatch2/issues/9
-     * (**nouveautÈs**) Readme en franÁais https://github.com/zRenard/zRenardWatch2/issues/6
-     * (**nouveautÈs**) Couleur pour la ligne verticale https://github.com/zRenard/zRenardWatch2/issues/5
-     * (**nouveautÈs**) Remplacement des icones par des lignes https://github.com/zRenard/zRenardWatch2/issues/8
+  * (*correction*) L‚Äôic√¥ne d'inactivit√© n'√©tait jamais complete <https://github.com/zRenard/zRenardWatch2/issues/9>
+  * (**nouveaut√©s**) Readme en fran√ßais <https://github.com/zRenard/zRenardWatch2/issues/6>
+  * (**nouveaut√©s**) Couleur pour la ligne verticale <https://github.com/zRenard/zRenardWatch2/issues/5>
+  * (**nouveaut√©s**) Remplacement des ic√¥nes par des lignes <https://github.com/zRenard/zRenardWatch2/issues/8>
 * 1.4.3
-     * (*correction*) Correction d'une erreur de compatibilitÈ de l'antialiasing sur la Fenix5 https://github.com/zRenard/zRenardWatch2/issues/7
+  * (*correction*) Correction d'une erreur de compatibilit√© de l'antialiasing sur la Fenix5 <https://github.com/zRenard/zRenardWatch2/issues/7>
 * 1.4.2
-     * (**nouveautÈs**) Ajout de nouvelles couleurs https://github.com/zRenard/zRenardWatch2/issues/4
+  * (**nouveaut√©s**) Ajout de nouvelles couleurs <https://github.com/zRenard/zRenardWatch2/issues/4>
 * 1.4.1
-     * (**nouveautÈs**) Augmentation du trait de l'icÙne de statut d'activitÈ
+  * (**nouveaut√©s**) Augmentation du trait de l‚Äôic√¥ne de statut d‚Äôactivit√©
 * 1.4.0
-    * (**nouveautÈs**) Affiche le statut d'activitÈ (On/Off)
-    * (**nouveautÈs**) Affiche le statut d'activitÈ sous forme de cercle ou d'icÙnes
-    * (**nouveautÈs**) Couleurs du cercle ou icÙnes d'activitÈ
-    * (*correction*) https://github.com/zRenard/zRenardWatch2/issues/3
+  * (**nouveaut√©s**) Affiche le statut d‚Äôactivit√© (On/Off)
+  * (**nouveaut√©s**) Affiche le statut d‚Äôactivit√© sous forme de cercle ou d‚Äôic√¥nes
+  * (**nouveaut√©s**) Couleurs du cercle ou ic√¥nes d‚Äôactivit√©
+  * (*correction*) <https://github.com/zRenard/zRenardWatch2/issues/3>
 * 1.3.1
-    * (*correction*) L'affichage incorrect sur fenix 5 avec le mode Èconomie d'energie https://github.com/zRenard/zRenardWatch2/issues/2
+  * (*correction*) L'affichage incorrect sur fenix 5 avec le mode √©conomie d‚Äô√©nergie <https://github.com/zRenard/zRenardWatch2/issues/2>
 * 1.3.0
-     * (**nouveautÈs**) Ajout d'un parametre couleur pour les secondes et les minutes
-     * (**nouveautÈs**) Ajout d'un parametre pour l'affichage des secondes.
+  * (**nouveaut√©s**) Ajout d'un param√®tre couleur pour les secondes et les minutes
+  * (**nouveaut√©s**) Ajout d'un param√®tre pour l'affichage des secondes.
 * 1.2.0
-     * (**nouveautÈs**) Ajout d'un parametre pour les couleurs des heures et des minutes
-     * (**nouveautÈs**)  Ajout d'un parametre pour activer l'affichage minimal si la batterie est sous le niveau critique.
-     * (*correction*) Correction d'un bug avec le fond d'ecran blanc et avec les couleurs claires.
+  * (**nouveaut√©s**) Ajout d'un param√®tre pour les couleurs des heures et des minutes
+  * (**nouveaut√©s**)  Ajout d'un param√®tre pour activer l'affichage minimal si la batterie est sous le niveau critique.
+  * (*correction*) Correction d'un bug avec le fond d‚Äô√©cran blanc et avec les couleurs claires.
